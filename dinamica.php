@@ -587,1679 +587,1301 @@ e) 5 m/s 2
 
 
     <p>
-    123. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-    <p>
-    92. 
-    </p>
-
-
-
-
-
-
-
-
-    <p>
-      2. (Unitau-SP) Um móvel parte do km 50, indo até
-o km 60, onde, mudando o sentido do movimento,
-vai até o km 32. O deslocamento escalar e a
-distância efetivamente percorrida são, respectivamente:
-a) 28 km e 28 km d) 18 km e 18 km
-b) 18 km e 38 km e) 38 km e 18 km
-c) 18 km e 38 km
-    </p>
-
-
-
-     <p>
-      3. (Unisinos-RS) Numa pista atlética retangular de
-lados a  160 m e b  60 m,
-um atleta corre com velocidade
-de módulo constante v  5 m/s,
-no sentido horário, conforme
-mostrado na figura. Em t  0 s,
-o atleta encontra-se no ponto A.
-O módulo do deslocamento do
-atleta, após 60 s de corrida, em
-metros, é:
-a) 100 d) 10 000
-b) 220 e) 18 000
-c) 300
-    </p>
-
-    <p>4. (UEL-PR) Um homem caminha com velocidade
-vH  3,6 km/h, uma ave, com velocidade
-vA  30 m/min, e um inseto, com vI  60 cm/s.
-Essas velocidades satisfazem a relação:
-a) vI  vH  vA d) vA  vH  vI
-b) vA  vI  vH e) vH  vI  vA
-c) vH  vA  vI</p>
-    <p>5. (UFPA) Maria saiu de Mosqueiro às 6 horas e 30
-minutos, de um ponto da estrada onde o marco
-quilométrico indicava km 60. Ela chegou a Belém às
-7 horas e 15 minutos, onde o marco quilométrico
-da estrada indicava km 0. A velocidade média, em
-quilômetros por hora, do carro de Maria, em sua
-viagem de Mosqueiro até Belém, foi de:
-a) 45 d) 80
-b) 55 e) 120
-c) 60</p>
-    <p>6. (UFRN) Uma das teorias para explicar o aparecimento
-do homem no continente americano propõe
-que ele, vindo da Ásia, entrou na América pelo Estreito
-de Bering e foi migrando para o sul até atingir
-a Patagônia, como indicado no mapa.
-Datações arqueológicas sugerem que foram necessários
-cerca de 10 000 anos para que essa migração
-se realizasse.
-O comprimento AB, mostrado ao lado do mapa, corresponde
-à distância de 5 000 km nesse mesmo mapa.
-
-Com base nesses dados, pode-se estimar que a velocidade
-escalar média de ocupação do continente
-americano pelo homem, ao longo da rota desenhada,
-foi de aproximadamente:
-a) 0,5 km/ano c) 24 km/ano
-b) 8,0 km/ano d) 2,0 km/ano
-</p>
-    <p>7. (Unitau-SP) Um carro mantém uma velocidade
-escalar constante de 72,0 km/h. Em uma hora e
-dez minutos ele percorre, em quilômetros, a distância
-de:
-a) 79,2 d) 84,0
-b) 80,0 e) 90,0
-c) 82,4</p>
-    <p>8. (PUCC-SP) Andrômeda é uma galáxia distante
-2,3  106 anos-luz da Via Láctea, a nossa galáxia. A
-luz proveniente de Andrômeda, viajando à velocidade
-de 3,0  105 km/s, percorre a distância aproximada
-até a Terra, em quilômetros, igual a
-a) 4  1015 d) 7  1021
-b) 6  1017 e) 9  1023
-c) 2  1019</p>
-    <p>9. (UFRS) No trânsito em ruas e estradas, é aconselhável
-os motoristas manterem entre os veículos um
-distanciamento de segurança. Esta separação assegura,
-folgadamente, o espaço necessário para que
-se possa, na maioria dos casos, parar sem risco de
-abalroar o veículo que se encontra na frente. Podese
-calcular esse distanciamento de segurança mediante
-a seguinte regra prática:
-distanciamento (em m) 
-velocidade emkm/ h
-10
-2
-⎡
-⎣ ⎢
-⎤
-⎦ ⎥
-Em comparação com o distanciamento necessário
-para um automóvel que anda a 70 km/h, o distanciamento
-de segurança de um automóvel que trafega
-a 100 km/h aumenta, aproximadamente,
-a) 30% d) 80%
-b) 42% e) 100%
-c) 50%</p>
-    <p>10. (Unimep-SP) A Embraer (Empresa Brasileira
-de Aeronáutica S.A.) está testando seu novo avião,
-o EMB-145. Na opinião dos engenheiros da empresa,
-esse avião é ideal para linhas aéreas ligando cidades
-de porte médio e para pequenas distâncias.
-Conforme anunciado pelos técnicos, a velocidade
-média do avião vale aproximadamente 800 km/h (no
-ar). Assim sendo, o tempo gasto num percurso de
-1 480 km será:
-a) 1 hora e 51 minutos d) 185 minutos
-b) 1 hora e 45 minutos e) 1 hora e 48 minutos
-c) 2 horas e 25 minutos</p>
-    <p>11. (MACK-SP) O Sr. José sai de sua casa caminhando
-com velocidade escalar constante de 3,6 km/h,
-dirigindo-se para o supermercado que está a 1,5 km.
-Seu filho Fernão, 5 minutos após, corre ao encontro
-do pai, levando a carteira que ele havia esquecido.
-Sabendo que o rapaz encontra o pai no instante
-em que este chega ao supermercado, podemos afirmar
-que a velocidade escalar média de Fernão foi
-igual a:
-a) 5,4 km/h d) 4,0 km/h
-b) 5,0 km/h e) 3,8 km/h
-c) 4,5 km/h</p>
-    <p>12. (UEPI) Em sua trajetória, um ônibus interestadual
-percorreu 60 km em 80 min, após 10 min de parada,
-seguiu viagem por mais 90 km à velocidade
-média de 60 km/h e, por fim, após 13 min de parada,
-percorreu mais 42 km em 30 min. A afirmativa
-verdadeira sobre o movimento do ônibus, do início
-ao final da viagem, é que ele:
-a) percorreu uma distância total de 160 km
-b) gastou um tempo total igual ao triplo do tempo
-gasto no primeiro trecho de viagem
-c) desenvolveu uma velocidade média de 60,2 km/h
-d) não modificou sua velocidade média em conseqüência
-das paradas
-e) teria desenvolvido uma velocidade média de
-57,6 km/h, se não tivesse feito paradas</p>
-    <p>13. (UFPE) O gráfico representa a posição de uma
-partícula em função do tempo. Qual a velocidade
-média da partícula, em metros por segundo, entre
-os instantes t  2,0 min e t  6,0 min?
-
-a) 1,5 d) 4,5
-b) 2,5 e) 5,5
-c) 3,5
-
-</p>
-    <p>14. (FURRN) As funções horárias de dois trens que se
-movimentam em linhas paralelas são: s1  k1  40t
-e s2  k2  60t, onde o espaço s está em quilômetros
-e o tempo t está em horas. Sabendo que os
-trens estão lado a lado no instante t  2,0 h, a diferença
-k1  k2, em quilômetros, é igual a:
-a) 30 d) 80
-b) 40 e) 100
-c) 60</p>
-    <p>15. (FEI-SP) O enunciado seguinte refere-se às questões
-15 e 16.
-Dois móveis A e B, ambos com movimento uniforme,
-percorrem uma trajetória retilínea conforme
-mostra a figura. Em t  0, estes se encontram, respectivamente,
-nos pontos A e B na trajetória. As
-velocidades dos móveis são vA  50 m/s e vB  30 m/s
-no mesmo sentido.
-
-Em qual ponto da trajetória ocorrerá o encontro
-dos móveis?
-a) 200 m d) 300 m
-b) 225 m e) 350 m
-c) 250 m
-
-</p>
-    <p>16. Em que instante a distância entre os dois móveis
-será 50 m?
-a) 2,0 s d) 3,5 s
-b) 2,5 s e) 4,0 s
-c) 3,0 s</p>
-    <p>17. Unimep-SP) Um carro A, viajando a uma velocidade
-constante de 80 km/h, é ultrapassado por um
-carro B. Decorridos 12 minutos, o carro A passa por
-um posto rodoviário e o seu motorista vê o carro B
-parado e sendo multado. Decorridos mais 6 minutos,
-o carro B novamente ultrapassa o carro A. A
-distância que o carro A percorreu entre as duas ultrapassagens
-foi de:
-a) 18 km d) 24 km
-b) 10,8 km e) 35 km
-c) 22,5 km</p>
-    <p>18. (Uniube-MG) Um caminhão, de comprimento
-igual a 20 m, e um homem percorrem, em movimento
-uniforme, um trecho de uma estrada retilínea
-no mesmo sentido. Se a velocidade do caminhão é
-5 vezes maior que a do homem, a distância percorrida
-pelo caminhão desde o instante em que alcança
-o homem até o momento em que o ultrapassa é,
-em metros, igual a:
-a) 20 d) 32
-b) 25 e) 35
-c) 30</p>
-    <p>19. (UEL-PR) Um trem de 200 m de comprimento,
-com velocidade escalar constante de 60 km/h, gasta
-36 s para atravessar completamente uma ponte.
-A extensão da ponte, em metros, é de:
-a) 200 d) 600
-b) 400 e) 800
-c) 500</p>
-    <p>20. (Furg-RS) Dois trens A e B movem-se com velocidades
-constantes de 36 km/h, em direções perpendiculares,
-aproximando-se do ponto de cruzamento
-das linhas. Em t  0 s, a frente do trem A está a
-uma distância de 2 km do cruzamento. Os comprimentos
-dos trens A e B são, respectivamente, 150 m
-e 100 m. Se o trem B passa depois pelo cruzamento
-e não ocorre colisão, então a distância de sua frente
-até o cruzamento, no instante t  0 s, é, necessariamente,
-maior que
-a) 250 m d) 2 150 m
-b) 2 000 m e) 2 250 m
-c) 2 050 m</p>
-    <p>21. (Unifor-CE) Um móvel se desloca, em movimento
-uniforme, sobre o eixo
-x durante o intervalo de
-tempo de t0  0 a t  30 s.
-O gráfico representa a
-posição x, em função do
-tempo t, para o intervalo
-de t  0 a t  5,0 s.
-O instante em que a posição
-do móvel é 30 m,
-em segundos, é
-a) 10 d) 25
-b) 15 e) 30
-c) 20</p>
-
-
-
-    <p>22. (Vunesp-SP) O movimento de um corpo ocorre
-sobre um eixo x, de acordo com o gráfico, em que
-as distâncias são dadas em metros e o tempo, em
-segundos. A partir do gráfico, determine:
-a) a distância percorrida em 1 segundo entre o instante
-t1  0,5 s e t2  1,5 s;
-b) a velocidade média do corpo entre t1  0,0 s e
-t2  2,0 s;
-c) a velocidade instantânea em t  2,0 s.</p>
-    <p>23. (UFRN) Um móvel se desloca em MRU, cujo gráfico
-v  t está representado no gráfico. Determine o
-valor do deslocamento do móvel entre os instantes
-t  2,0 s e t  3,0 s.
-a) 0 d) 30 m
-b) 10 m e) 40 m
-c) 20 m</p>
-
-
-    <p>24. (UFLA-MG) O gráfico representa a variação das
-posições de um móvel em função do tempo (s  f(t)).
-O gráfico de v  t que melhor representa o movimento
-dado, é:</p>
-    <p>25. (Fuvest-SP) Os gráficos referem-se a movimentos
-unidimensionais de um corpo em três situações
-diversas, representando a posição como função do
-tempo. Nas três situações, são iguais
-a) as velocidades médias.
-b) as velocidades máximas.
-c) as velocidades iniciais.
-d) as velocidades finais.
-e) os valores absolutos das velocidades máximas.</p>
-    <p>26. (FEI-SP) No movimento retilíneo uniformemente
-variado, com velocidade inicial nula, a distância percorrida
+    123. (UFRN) Em determinado instante, uma bola de
+200 g cai verticalmente com aceleração de 4,0 m/s2.
+Nesse instante, o módulo da força de resistência,
+exercida pelo ar sobre essa bola, é, em newtons,
+igual a: (Dado: g  10 m/s2.)
+a) 0,20 c) 1,2 e) 2,0
+b) 0,40 d) 1,5
+    </p>
+
+
+    <p>
+    124. MACK-SP) Em uma experiência de Física, abandonam-
+se do alto de uma torre duas esferas A e B,
+de mesmo raio e massas mA  2mB. Durante a que da, além da atração gravitacional da Terra, as esferas
+ficam sujeitas à ação da força de resistência do
+ar, cujo módulo é F  k  v2, onde v é a velocidade
+de cada uma delas e k, uma constante de igual valor
+para ambas. Após certo tempo, as esferas adquirem
+velocidades constantes, respectivamente iguais a
+VA e VB, cuja relação
+V
+V
+A
+B
 é:
-a) diretamente proporcional ao tempo de percurso
-b) inversamente proporcional ao tempo de percurso
-c) diretamente proporcional ao quadrado do tempo
-de percurso
-d) inversamente proporcional ao quadrado do tempo
-de percurso
-e) diretamente proporcional à velocidade</p>
-    <p>27. (UEPG-PR) Um passageiro anotou, a cada minuto,
-a velocidade indicada pelo velocímetro do táxi
-em que viajava; o resultado foi 12 km/h, 18 km/h,
-24 km/h e 30 km/h. Pode-se afirmar que:
-a) o movimento do carro é uniforme;
-b) a aceleração média do carro é de 6 km/h, por minuto;
-c) o movimento do carro é retardado;
-d) a aceleração do carro é 6 km/h2;
-e) a aceleração do carro é 0,1 km/h, por segundo.</p>
-    <p>28. (Unimep-SP) Uma partícula parte do repouso e
-em 5 segundos percorre 100 metros. Considerando
-o movimento retilíneo e uniformemente variado,
-podemos afirmar que a aceleração da partícula é de:
-a) 8 m/s2
-b) 4 m/s2
-c) 20 m/s2
-d) 4,5 m/s2
-e) Nenhuma das anteriores</p>
-    <p>29. (MACK-SP) Uma partícula em movimento retilíneo
-desloca-se de acordo com a equação v  4  t,
-onde v representa a velocidade escalar em m/s e t, o
-tempo em segundos, a partir do instante zero. O
-deslocamento dessa partícula no intervalo (0 s, 8 s) é:
-a) 24 m c) 2 m e) 8 m
-b) zero d) 4 m</p>
-    <p>30. (Uneb-BA) Uma partícula, inicialmente a 2 m/s, é
-acelerada uniformemente e, após percorrer 8 m,
-alcança a velocidade de 6 m/s. Nessas condições, sua
-aceleração, em metros por segundo ao quadrado, é:
-a) 1 c) 3 e) 5
-b) 2 d) 4</p>
-    <p>31. (Fafeod-MG) Na tabela estão registrados os instantes
-em que um automóvel passou pelos seis primeiros
-marcos de uma estrada
-Analisando os dados da tabela, é correto afirmar que
-o automóvel estava se deslocando
-a) com aceleração constante de 2 km/min2.
-b) em movimento acelerado com velocidade de
-2 km/min.
-c) com velocidade variável de 2 km/min.
-d) com aceleração variada de 2 km/min2.
-e) com velocidade constante de 2 km/min.
 
-</p>
-    <p>32. (UFRJ) Numa competição automobilística, um
-carro se aproxima de uma curva em grande velocidade.
-O piloto, então, pisa o freio durante 4 s e consegue
-reduzir a velocidade do carro para 30 m/s.
-Durante a freada o carro percorre 160 m.
-Supondo que os freios imprimam ao carro uma aceleração
-retardadora constante, calcule a velocidade
-do carro no instante em que o piloto pisou o freio.  </p>
-    <p>33. (Unicamp-SP) Um automóvel trafega com velocidade
-constante de 12 m/s por uma avenida e se
-aproxima de um cruzamento onde há um semáforo
-com fiscalização eletrônica. Quando o automóvel se
-encontra a uma distância de 30 m do cruzamento,
-o sinal muda de verde para amarelo. O motorista
-deve decidir entre parar o carro antes de chegar ao
-cruzamento ou acelerar o carro e passar pelo cruzamento
-antes do sinal mudar para vermelho. Este sinal
-permanece amarelo por 2,2 s. O tempo de reação
-do motorista (tempo decorrido entre o momento
-em que o motorista vê a mudança de sinal e o
-momento em que realiza alguma ação) é 0,5 s.
-a) Determine a mínima aceleração constante que o
-carro deve ter para parar antes de atingir o cruzamento
-e não ser multado.
-b) Calcule a menor aceleração constante que o carro
-deve ter para passar pelo cruzamento sem ser multado.
-Aproxime 1,72  3,0.</p>
-    <p>34. (UEPI) Uma estrada possui um trecho retilíneo de
-2 000 m, que segue paralelo aos trilhos de uma ferrovia
-também retilínea naquele ponto. No início do
-trecho um motorista espera que na outra extremidade
-da ferrovia, vindo ao seu encontro, apareça
-um trem de 480 m de comprimento e com velocidade
-constante e igual, em módulo, a 79,2 km/h para
-então acelerar o seu veículo com aceleração constante
-de 2 m/s2. O final do cruzamento dos dois ocorrerá
-em um tempo de aproximadamente:
-a) 20 s c) 62 s e) 40 s
-b) 35 s d) 28 s</p>
-    <p>35. (UEL-PR) O gráfico
-representa a
-velocidade escalar
-de um corpo, em
-função do tempo. De acordo com o gráfico, o módulo da aceleração
-desse corpo, em metros por segundo ao quadrado,
-é igual a
-a) 0,50 c) 8,0 e) 16,0
-b) 4,0 d) 12,0</p>
-
-
-
-
-    <p>36. UEPA) Um motorista, a 50 m de um semáforo,
-percebe a luz mudar de verde para amarelo. O grá-
-fico mostra a variação da velocidade do carro em
-função do tempo a partir desse instante. Com base
-V (m/s)
-nos dados indicados
-no gráfico pode-se
-20
-afirmar que o motoris-
-ta pára:<br>
-a) 5 m depois do
-semáforo
-0
-b) 10 m antes do
-semáforo
-c) exatamente sob o semáforo
-d) 5 m antes do semáforo
-e) 10 m depois do semáforo</p>
-
-
-    <p>37. (Fuvest-SP) As velocidades de crescimento verti-
-cal de duas plantas, A e B, de espécies diferentes,
-variaram, em função do tempo decorrido após o
-plantio de suas sementes, como mostra o gráfico.<BR>
-É possível afirmar que:
-a) A atinge uma altura final maior do que B
-b) B atinge uma altura final maior do que A
-c) A e B atingem a mesma altura final
-d) A e B atingem a mesma altura no instante t 0
-e) A e B mantêm altura constante entre os instantes
-t 1 e t 2 </p>
-   
-    <p>38. (UFRJ) Nas provas de atletismo de curta distância
-(até 200 m) observa-se um aumento muito rápido
-da velocidade nos primeiros segundos da prova, e
-depois um intervalo de tempo relativamente longo,
-em que a velocidade do atleta permanece praticamente constante, para em seguida diminuir lenta-
-mente. Para simplificar a discussão, suponha que a
-velocidade do velocista em função do tempo seja
-dada pelo gráfico a seguir<br>
-Calcule:
-a) as acelerações nos dois primeiros segundos da pro-
-va e no movimento subseqüente.
-b) a velocidade média nos primeiros 10 s de prova.</p>
-
-
-    <p>39. (UFPE) O gráfico mostra a variação da velocidade
-de um automóvel em função do tempo. Supondo-
-se que o automóvel passe pela origem em t  0,
-calcule o deslocamento total, em metros, depois de
-transcorridos 25 segundos</p>
-
-    <p>40. (UERJ) A distância entre duas estações de metrô
-é igual a 2,52 km. Partindo do repouso na primeira
-estação, um trem deve chegar à segunda estação
-em um intervalo de tempo de três minutos. O trem
-acelera com uma taxa constante até atingir sua ve-
-locidade máxima no trajeto, igual a 16 m/s. Perma-
-nece com essa velocidade por um certo tempo. Em
-seguida, desacelera com a mesma taxa anterior até
-parar na segunda estação.
-a) Calcule a velocidade média do trem, em metros
-por segundo.
-b) Esboce o gráfico velocidade  tempo e calcule o
-tempo gasto para alcançar a velocidade máxima, em
-segundos.</p>
-
-    <p>41. (UFRJ) No livreto fornecido pelo fabricante de um
-automóvel há a informação de que ele vai do re-
-pouso a 108 km/h (30 m/s) em 10 s e que a sua ve-
-locidade varia em função do tempo de acordo com
-o seguinte gráfico 
-Suponha que você queira fazer esse mesmo carro
-passar do repouso a 30 m/s também em 10 s, mas
-com aceleração escalar constante.
-a) O movimento é acelerado de 0 a t 1 .
-b) O movimento é acelerado de t 1 a t 2 .
-c) O movimento é retardado de t 2 a t 3 .
-a) Calcule qual deve ser essa aceleração.
-b) Compare as distâncias d e d percorridas pelo carro
-nos dois casos, verificando se a distância d percor-
-rida com aceleração escalar constante é maior, me-
-nor ou igual à distância d percorrida na situação re-
-presentada pelo gráfico
-
-</p>
-
-    <p>42. (Acafe-SC) O gráfico representa a variação da
-posição, em função do tempo, de um ponto mate-
-rial que se encontra em movimento retilíneo unifor-
-memente variado.
-
-Analisando o gráfico, podemos afirmar que:
-a) A velocidade inicial é negativa.
-b) A aceleração do ponto material é positiva.
-c) O ponto material parte da origem das posições.
-d) No instante 2 segundos, a velocidade do ponto
-material é nula.
-e) No instante 4 segundos, o movimento do ponto
-material é progressivo.
-
-</p>
-    <p>43. (UFAL) Cada questão de proposições múltiplas
-consistirá de 5 (cinco) afirmações, das quais algu-
-mas são verdadeiras, as outras são falsas, podendo
-ocorrer que todas as afirmações sejam verdadeiras
-ou que todas sejam falsas. As alternativas verdadeiras devem ser marcadas com V e as falsas, com F.
-Analise as afirmações sobre o movimento, cujo grá-
-fico da posição  tempo é representado a seguir.
-
-a) O movimento é acelerado de 0 a t 1 .
-b) O movimento é acelerado de t 1 a t 2 .
-c) O movimento é retardado de t 2 a t 3 .
-d) A velocidade é positiva de 0 a t 2 .
-e) A velocidade é negativa de t 1 a t 3 .
-</p>
-    <p>44. O gráfico representa a aceleração de um móvel
-em função do tempo. A velocidade inicial do móvel
-é de 2 m/s.
-
-a) Qual a velocidade do móvel no instante 4 s?
-1,5
-b) Construa o gráfico da velocidade do móvel em
-função do tempo nos 4 s iniciais do movimento.
-
-</p>
-    <p>45. (UEPI) Um corpo é abandonado de uma altura
-de 20 m num local onde a aceleração da gravidade
-da Terra é dada por g  10 m/s 2 . Desprezando o
-atrito, o corpo toca o solo com velocidade:
-a) igual a 20 m/s d) igual a 20 km/h
-b) nula e) igual a 15 m/s
-c) igual a 10 m/s</p>
-
-
-    <p>46. (PUC-RJ) Uma bola é lançada de uma torre, para
-baixo. A bola não é deixada cair mas, sim, lançada
-com uma certa velocidade inicial para baixo. Sua
-aceleração para baixo é (g refere-se à aceleração da
-gravidade):
-a) exatamente igual a g.
-b) maior do que g.
-c) menor do que g.
-d) inicialmente, maior do que g, mas rapidamente
-estabilizando em g.
-e) inicialmente, menor do que g, mas rapidamente
-estabilizando em g
-
-</p>
-    <p>47. FUC-MT) Um corpo é lançado verticalmente para
-cima com uma velocidade inicial de v 0  30 m/s.
-Sendo g  10 m/s 2 e desprezando a resistência
-do ar qual será a velocidade do corpo 2,0 s após o
-lançamento?
-a) 20 m/s d) 40 m/s
-b) 10 m/s e) 50 m/s
-c) 30 m/s</p>
-
-
-    <p>48. (FUC-MT) Em relação ao exercício anterior, qual
-é a altura máxima alcançada pelo corpo?
-a) 90 m d) 360 m
-b) 135 m e) 45 m
-c) 270 m</p>
-
-
-    <p>49. (UECE) De um corpo que cai livremente desde o
-repouso, em um planeta X,
-foram tomadas fotografias de
-múltipla exposição à razão de
-1 200 fotos por minuto. As-
-sim, entre duas posições vizi-
-nhas, decorre um intervalo de
-tempo de 1/20 de segundo.
-80 cm
-A partir das informações
-constantes da figura, pode-
-mos concluir que a acelera-
-ção da gravidade no planeta
-X, expressa em metros por se-
-gundo ao quadrado, é:
-a) 20 d) 40
-b) 50 e) 10
-c) 30</p>
-
-
-    <p>50. (UFMS) Um corpo em queda livre sujeita-se à ace-
-leração gravitacional g  10 m/s 2 . Ele passa por um
-ponto A com velocidade 10 m/s e por um ponto B
-com velocidade de 50 m/s. A distância entre os pon-
-tos A e B é:
-a) 100 m d) 160 m
-b) 120 m e) 240 m
-c) 140 m</p>
-
-
-    <p>51. (UFSC) Quanto ao movimento de um corpo lan-
-çado verticalmente para cima e submetido somente
-à ação da gravidade, é correto afirmar que:
-01. A velocidade do corpo no ponto de altura máxi-
-ma é zero instantaneamente
-02. A velocidade do corpo é constante para todo o
-percurso.
-04. O tempo necessário para a subida é igual ao
-tempo de descida, sempre que o corpo é lançado
-de um ponto e retorna ao mesmo ponto.
-08. A aceleração do corpo é maior na descida do
-que na subida.
-16. Para um dado ponto na trajetória, a velocidade
-tem os mesmos valores, em módulo, na subida e na
-descida
-
-</p>
-    <p>52. (EFEI-MG) A velocidade de um projétil lançado
-verticalmente para cima varia de acordo com o grá-
-fico da figura. Determine a altura máxima atingida
-pelo projétil, considerando que esse lançamento se
-dá em um local onde o campo gravitacional é dife-
-rente do da Terra. </p>
-
-    <p>53. (UERJ) Foi veiculada na televisão uma propagan-
-da de uma marca de biscoitos com a seguinte cena:
-um jovem casal está num mirante sobre um rio e
-alguém deixa cair lá de cima um biscoito. Passados
-alguns segundos, o rapaz se atira do mesmo lugar
-de onde caiu o biscoito e consegue agarrá-lo no ar.
-Em ambos os casos, a queda é livre, as velocidades
-iniciais são nulas, a altura da queda é a mesma e a
-resistência do ar é nula.
-Para Galileu Galilei, a situação física desse comercial
-seria interpretada como:
-a) impossível, porque a altura da queda não era gran-
-de o suficiente
-b) possível, porque o corpo mais pesado cai com
-maior velocidade
-c) possível, porque o tempo de queda de cada cor-
-po depende de sua forma
-d) impossível, porque a aceleração da gravidade não
-depende da massa dos corpos</p>
-
-    <p>54. Fafi-BH) Um menino lança uma bola verticalmen-
-te para cima do nível da rua. Uma pessoa que está
-numa sacada a 10 m acima do solo apanha essa bola
-quando está a caminho do chão.
-Sabendo-se que a velocidade inicial da bola é de
-15 m/s, pode-se dizer que a velocidade da bola, ao
-ser apanhada pela pessoa, era de
-a) 15 m/s
-b) 10 m/s
-c) 5 m/s
-P
-d) 0 m/s</p>
-
-
-    <p>55.MACK-SP) Uma equipe de resgate se encontra
-num helicóptero, parado em relação ao solo a 305 m
-de altura. Um pára-quedista abandona o helicóptero
-e cai livremente durante 1,0 s, quando abre-se o
-pára-quedas. A partir desse instante, mantendo cons-
-tante seu vetor velocidade, o pára-quedista atingirá
-o solo em:
-(Dado: g  10 m/s 2 )
-a) 7,8 s
-b) 15,6 s
-c) 28 s
-d) 30 s
-e) 60 s
- </p>
-
-    <p>56.(UERJ) Um malabarista consegue manter cinco
-bolas em movimento, arremessando-as para cima,
-uma de cada vez, a intervalos de tempo regulares,
-de modo que todas saem da mão esquerda, alcan-
-çam uma mesma altura, igual a 2,5 m, e chegam à
-mão direita. Desprezando a distância entre as mãos,
-determine o tempo necessário para uma bola sair
-de uma das mãos do malabarista e chegar à outra,
-conforme o descrito acima.
-(Adote g  10 m/s 2 .) </p>
-
-    <p>57. (Cefet-BA) Um balão em movimento vertical as-
-cendente à velocidade constante de 10 m/s está a
-75 m da Terra, quando dele se desprende um obje-
-to. Considerando a aceleração da gravidade igual
-a 10 m/s 2 e desprezando a resistência do ar, o tem-
-po, em segundos, em que o objeto chegará a
-Terra, é:
-a) 50
-b) 20
-c) 10
-d) 8
-e) 5</p>
-
-    <p>58. (UFRJ) Um pára-quedista radical pretende atingir
-a velocidade do som. Para isso, seu plano é saltar
-de um balão estacionário na alta atmosfera, equi-
-pado com roupas pressurizadas. Como nessa alti-
-tude o ar é muito rarefeito, a força de resistência
-do ar é desprezível. Suponha que a velocidade ini-
-cial do pára-quedista em relação ao balão seja nula
-e que a aceleração da gravidade seja igual a 10 m/s 2 .
-A velocidade do som nessa altitude é 300 m/s.
-Calcule:
-a) em quanto tempo ele atinge a velocidade do som;
-b) a distância percorrida nesse intervalo de tempo
-</p>
-    <p>59. (PUCC-SP) Num bairro, onde todos os quartei-
-rões são quadrados e as ruas paralelas distam 100 m
-uma da outra, um transeunte faz o percurso de P a
-Q pela trajetória representada no esquema.
-O deslocamento vetorial desse transeunte tem
-módulo, em metros, igual a:
-
-a) 700
-b) 500
-c) 400
-d) 350
-e) 300
-
-</p>
-    <p>60. (Unitau-SP) Considere o conjunto de vetores re-
-presentados na figura. Sendo igual a 1 o módulo
-de cada vetor, as operações A  B, A  B  C e
-A  B  C  D terão módulos, respectivamente,
-iguais a:
-
-a) 2; 1; 0
-c) 2 ; 1; 0
-d) outra resposta
-</p>
-
-
-    <p>61.(UEL-PR) Observando-se os vetores indicados no
-esquema, pode-se concluir que
-
-a) X  a  b
-b) X  a  c
-c) X  a  d
-d) X  b  c
-e) X  b  d
- </p>
-
-    <p>62. Na figura, o retângulo representa a janela de um
-trem que se move com velocidade constante e não
-nula, enquanto a seta indica o sentido de movimen-
-to do trem em relação ao solo. Dentro do trem, um passageiro sentado nota que
-começa a chover. Vistas por um observador em re-
-pouso em relação ao solo terrestre, as gotas da chu-
-va caem verticalmente.
-Represente vetorialmente a velocidade das gotas de
-chuva para o passageiro que se encontra sentado.</p>
-
-    <p>63. (MACK-SP) Num mesmo plano vertical, perpen-
-dicular à rua, temos os segmentos de reta AB e PQ,
-paralelos entre si. Um ônibus se desloca com veloci-
-dade constante de módulo v 1 , em relação à rua, ao
-longo de AB , no sentido de A para B, enquanto um
-passageiro se desloca no interior do ônibus, com
-velocidade constante de módulo v 2 , em relação ao
-veículo, ao longo de PQ no sentido de P para Q.
-
-
-Sendo v 1  v 2 , o módulo da velocidade do passagei-
-ro em relação ao ponto B da rua é:
-←
-X
-a) v 1  v 2 d) v 1
-b) v 1  v 2 e) v 2
-c) v 2  v 1
-</p>
-    <p>64. (FURRN) Um barco, em águas paradas, desen-
-volve uma velocidade de 7 m/s. Esse barco vai cru-
-zar um rio cuja correnteza tem velocidade 4 m/s,
-paralela às margens. Se o ba
-rco cruza o rio perpen-
-dicularmente à correnteza, sua velocidade em rela-
-ção às margens, em metros por segundo é, aproxi-
-madamente:
-a) 11
-b) 8
-c) 6
-d) 5
-e) 3
-</p>
-    <p>65. (FM-Itajubá-MG) Um barco atravessa um rio se-
-guindo a menor distância entre as margens, que são
-paralelas. Sabendo que a largura do rio é de 2,0 km,
-a travessia é feita em 15 min e a velocidade da cor-
-renteza é 6,0 km/h, podemos afirmar que o módulo
-da velocidade do barco em relação à água é:
-a) 2,0 km/h d) 10 km/h
-b) 6,0 km/h e) 14 km/h
-c) 8,0 km/h</p>
-
-    <p>66. (UFOP-MG) Os vetores velocidade ( v ) e acelera-
-→
-ção ( a ) de uma partícula em movimento circular uni-
-forme, no sentido indicado, estão melhor represen-
-tados na figura:
-a, b, e, d ou e </p>
-
-
-    <p>67. (Fiube-MG) Na figura está representada a traje-
-tória de um móvel que vai do ponto P ao ponto Q
-em 5 s. O módulo de sua velocidade vetorial média,
-em metros por segundo e nesse intervalo de tempo,
-é igual a:
-1
+a) 2 d) 1
+b) 3 e)
 2
-3
-4
-5
-6
- </p>
-    <p>68. (PUC-SP) Suponha que em uma partida de fute-
-bol, o goleiro, ao bater o tiro de meta, chuta a bola,
+2
+c) 2
+    </p>
 
-imprimindo-lhe uma velocidade v 0 cujo vetor
-forma, com a horizontal, um ângulo . Desprezan-
-do a resistência do ar, são feitas as seguintes afir-
-mações.
 
-I – No ponto mais alto da trajetória, a velocidade
-vetorial da bola é nula.
-⎯
+    <p>
+    125.  (UFPel-RS) As rodas de um automóvel que procura
+movimentar-se para frente, exercem claramente
+forças para trás sobre o solo. Para cientificar-se
+disso, pense no que acontece, se houver uma fina
+camada de areia entre as rodas e o piso.
+Explique como é possível, então, ocorrer o deslocamento
+do automóvel para frente
+    </p>
+
+
+    <p>
+    126.  (UFJF-MG) Um carro desce por um plano inclinado,
+continua movendo-se por um plano horizontal
+e, em seguida, colide com um poste. Ao investigar
+o acidente, um perito de trânsito verificou que
+o carro tinha um vazamento de óleo que fazia pingar
+no chão gotas em intervalos de tempo iguais.
+Ele verificou também que a distância entre as gotas
+era constante no plano inclinado e diminuía
+gradativamente no plano horizontal. Desprezando
+a resistência do ar, o perito pode concluir que o
+carro:
+a) vinha acelerando na descida e passou a frear no
+plano horizontal;
+b) descia livremente no plano inclinado e passou a
+frear no plano horizontal;
+c) vinha freando desde o trecho no plano inclinado;
+d) não reduziu a velocidade até o choque.
+    </p>
+
+
+    <p>
+    127.  (UFPA) Para revestir uma rampa foram encontrados
+5 (cinco) tipos de piso, cujos coeficientes de
+atrito estático, com calçados com sola de couro, são
+dados na tabela abaixo A rampa possui as dimensões indicadas na figura
+abaixo.
+Considere que o custo do piso é proporcional ao
+coeficiente de atrito indicado na tabela.
+Visando economia e eficiência, qual o tipo de piso
+que deve ser usado para o revestimento da rampa?
+Justifique sua resposta com argumentos e cálculos
+necessários
+    </p>
+
+
+    <p>
+    128. (MACK-SP) Uma força F de 70 N, paralela à superfície
+de um plano inclinado conforme mostra a
+figura, empurra para cima um bloco de 50 N com
+velocidade constante. A força que empurra esse bloco
+para baixo, com velocidade constante, no mesmo
+plano inclinado, tem intensidade de:
+Dados:
+cos 37º  0,8
+sen 37º  0,6
+
+a) 40 N c) 20 N e) 10 N
+b) 30 N d) 15 N
+
+    </p>
+
+
+    <p>
+    129.  (UECE) Na figura m1  100 kg, m2  76 kg, a
+roldana é ideal e o coeficiente de atrito entre o bloco
+de massa m1 e o plano inclinado é   0,3. O
+bloco de massa m1 se moverá
+Dados: sen 30o  0,50
+cos 30o  0,86
+a) para baixo, acelerado
+b) para cima, com velocidade constante
+c) para cima, acelerado
+d) para baixo, com velocidade constante
+
+    </p>
+
+
+    <p>
+    130. (MACK-SP) Um bloco de 10 kg repousa sozinho
+sobre o plano inclinado a seguir. Esse bloco se
+desloca para cima, quando se suspende em P2 um
+corpo de massa superior a 13,2 kg. Retirando-se o
+corpo de P2, a maior massa que poderemos suspender
+em P1 para que o bloco continue em repouso,
+supondo os fios e as polias ideais, deverá ser de:
+Dados: g  10 m/s2; sen   0,6; cos   0,8
+a) 1,20 kg c) 2,40 kg e) 13,2 kg
+b) 1,32 kg d) 12,0 kg
+
+    </p>
+
+
+    <p>
+    131. (Uniube-MG) A figura abaixo mostra uma mola
+de massa desprezível e de constante elástica k em
+três situações distintas de equilíbrio estático.
+De acordo com as situações I e II, pode-se afirmar
+que a situação III ocorre somente se
+a) P2  36 N c) P2  18 N
+b) P2  27 N d) P2  45 N
+
+    </p>
+
+
+    <p>
+    132.  (Fuvest-SP) Uma bolinha pendurada na extremidade
+de uma mola vertical executa um movimento
+oscilatório. Na situação da figura, a mola encontra-
+se comprimida e a bolinha está subindo com velocidade
+V →
+. Indicando por F
 →
-II – A velocidade inicial v 0 pode ser decomposta
-segundo as direções horizontal e vertical.
-III – No ponto mais alto da trajetória é nulo o valor
-da aceleração da gravidade.
-IV – No ponto mais alto da trajetória é nulo o valor
-⎯
+a força da mola e por
+P →
+a força-peso aplicadas na bolinha, o único esquema
+que pode representar tais forças na situação descrita
+acima é:
+a,b,c,d 
+    </p>
+
+
+    <p>
+    133. (UFPel-RS) Em um parque de diversões, existe
+um carrossel que gira com velocidade angular constante,
+como mostra a figura. Analisando o movimento
+de um dos cavalinhos, visto de cima e de fora do
+carrossel, um estudante tenta fazer uma figura onde
+apareçam a velocidade v→
+, a aceleração a→
+e a resultante
+das forças que atuam sobre o cavalinho, R
 →
-v y da componente vertical da velocidade.
-Estão corretas:
-a) I, II e III d) III e IV
-b) I, III e IV e) I e II
-P
-c) II e IV
-
-
- </p>
-    <p>69. (UEL-PR) Um corpo é lançado para cima, com
-velocidade inicial de 50 m/s, numa direção que for-
-ma um ângulo de 60o com a horizontal. Desprezan-
-do a resistência do ar, pode-se afirmar que no ponto
-mais alto da trajetória a velocidade do corpo, em
-metros por segundo, será:
-(Dados: sen 60o  0,87; cos 60o  0,50)
-a) 5
-b) 10
-c) 25
-d) 40
-e) 50
-</p>
-    <p>70. (FAAP-SP) Numa competição nos jogos de
-Winnipeg, no Canadá, um atleta arremessa um dis-
-co com velocidade de 72 km/h, formando um ân-
-gulo de 30o com a horizontal. Desprezando-se os
-efeitos do ar, a altura máxima atingida pelo disco é:
-(g  10 m/s 2 )
-
-a) 5,0 m d) 25,0 m
-b) 10,0 m e) 64,0 m
-c) 15,0 m
-</p>
-    <p>71. (UFSC) Uma jogadora de basquete joga uma bola
-com velocidade de módulo 8,0 m/s, formando
-um ângulo de 60o com a horizontal, para cima. O
-arremesso é tão perfeito que a atleta faz a cesta
-sem que a bola toque no aro. Desprezando a resis-
-tência do ar, assinale a(s) proposição(ões)
-verdadeira(s).
-01. O tempo gasto pela bola para alcançar o ponto
-mais alto da sua trajetória é de 0,5 s.
-→
-v 0
-02. O módulo da velocidade da bola, no ponto mais
-alto da sua trajetória, é igual a 4,0 m/s.
-04. A aceleração da bola é constante em módulo,
-direção e sentido desde o lançamento até a bola
-atingir a cesta.
-08. A altura que a bola atinge acima do ponto de
-lançamento é de 1,8 m.
-16. A trajetória descrita pela bola desde o lança-
-mento até atingir a cesta é uma parábola.
-</p>
-    <p>72. Numa partida de futebol, o goleiro bate o tiro de
-meta e a bola, de massa 0,5 kg, sai do solo com
-velocidade de módulo igual a 10 m/s, conforme
-mostra a figura. No ponto P, a 2 metros do solo, um jogador da de-
-fesa adversária cabeceia a bola. Considerando
-g  10 m/s 2 , determine a velocidade da bola no
-ponto P</p>
-    
-    <p>73. (UFPE) Dois bocais de mangueiras de jardim, A e
-B, estão fixos ao solo. O bocal A é perpendicular ao
-solo e o outro está inclinado 60° em relação à dire-
-ção de A. Correntes de água jorram dos dois bocais
-com velocidades idênticas. Qual a razão entre as al-
-turas máximas de elevação da água? </p>
-
-    <p>74. (Unisinos-RS) Suponha três setas A, B e C lan-
-çadas, com iguais velocidades, obliquamente acima
-de um terreno plano e horizontal, segundo os ân-
-gulos de 30°, 45° e 60°, respectivamente. Desconsi-
-derando a resistência do ar, afirma-se que:
-III – A permanecerá menos tempo no ar.
-III – B terá maior alcance horizontal.
-III – C alcançará maior altura acima da horizontal.
-Das afirmativas acima:
-a) somente I é correta
-b) somente II é correta
-c) somente I e II são corretas
-d) somente I e III são corretas
-e) I, II e III são corretas</p>
-
-
-    <p>75. Unitau-SP) Numa competição de motocicletas,
-os participantes devem ultrapassar um fosso e, para
-tornar possível essa tarefa, foi construída uma ram-
-pa conforme mostra a figura.
-Desprezando as dimensões da moto e considerando
-L  7,0 m, cos 10°  0,98 e sen 10°  0,17, deter-
-mine a mínima velocidade com que as motos de-
-vem deixar a rampa a fim de que consigam atraves-
-sar o fosso. Faça g  10 m/s 2 .
- </p>
-    
-    <p>76. (Fuvest-SP) Um motociclista de motocross move-
-se com velocidade v  10 m/s, sobre uma superfície
-plana, até atingir uma rampa (em A), inclinada 45°
-com a horizontal, como indicado na figura.
-
-A trajetória do motociclista deverá atingir novamente
-a rampa a uma distância horizontal D(D  H), do
-ponto A, aproximadamente igual a:
-a) 20 m d) 7,5 m
-b) 15 m e) 5 m
-c) 10 m
-</p>
-
-    <p>77. (Fameca-SP) De um avião descrevendo uma tra-
-jetória paralela ao solo, com velocidade v, é aban-
-donada uma bomba de uma altura de 2 000 m do
-solo, exatamente na vertical que passa por um ob-
-servador colocado no solo. O observador ouve o
-“estouro” da bomba no solo depois de 23 segun-
-dos do lançamento da mesma.
-São dados: aceleração da gravidade g  10 m/s 2 ;
-velocidade do som no ar: 340 m/s.
-A velocidade do avião no instante do lançamento
-da bomba era, em quilômetros por hora, um valor
-mais próximo de:
-a) 200 d) 300
-b) 210 e) 150
-c) 180
-
-</p>
-    <p>78. (Unifor-CE) Considere as afirmações acerca do
-movimento circular uniforme:
-I. Não há aceleração, pois não há variação do vetor
-velocidade.
-II. A aceleração é um vetor de intensidade cons-
-tante.
-III. A direção da aceleração é perpendicular à veloci-
-dade e ao plano da trajetória.
-Dessas afirmações, somente:
-a) I é correta d) I e II são corretas
-b) II é correta e) II e III são corretas
-c) III é correta
-
-</p>
-    <p>79. (UFU-MG) Em uma certa marca de máquina de
-lavar, as roupas ficam dentro de um cilindro oco que
-possui vários furos em sua parede lateral (veja a
-figura). Depois que as roupas são lavadas, esse cilindro gira
-com alta velocidade no sentido indicado, a fim de
-que a água seja retirada das roupas. Olhando o ci-
-lindro de cima, indique a alternativa que possa re-
-presentar a trajetória de uma gota de água que sai
-do furo A:
-a, b, c, d ou e </p>
-
-    <p>80. (FUC-MT) Um ponto material percorre uma
-circunferência de raio igual a 0,1 m em movimento
-uniforme de forma, a dar 10 voltas por segundo.
-Determine o período do movimento.
-a) 10,0 s d) 0,1 s
-b) 10,0 Hz e) 100 s
-c) 0,1 Hz</p>
-
-    <p>81. (ITE-SP) Uma roda tem 0,4 m de raio e gira com
-velocidade constante, dando 20 voltas por minuto.
-Quanto tempo gasta um ponto de sua periferia para
-percorrer 200 m:
-a) 8 min c) 3,98 min
-b) 12,5 min d) n.d.a
-
-</p>
-    <p>82. Uma pedra se engasta num pneu de automóvel
-que está com uma velocidade uniforme de 90 km/h.
-Considerando que o
-pneu não patina nem
-escorrega e que o sen-
-tido de movimento do
-automóvel é o positi-
-vo, calcule os valores
-máximo e mínimo da
-velocidade da pedra
-em relação ao solo.</p>
-
-
-    <p>83. (UFOP-MG) I – Os vetores velocidade (v) e acele-
-ração (a) de uma partícula em movimento circular
-uniforme, no sentido indicado, estão corretamente
-representados na figura:
-a, b, e, d ou e
-
-II – A partir das definições dos vetores velocidade
-(v) e aceleração (a) justifique a resposta dada no item
-anterior.
-III – Se o raio da circunferência é R  2 m e a fre-
-qüência do movimento é f  120 rotações por mi-
-nuto, calcule os módulos da velocidade e da acele-
-ração.
-Adote 	  3,14.
-</p>
-
-
-    <p>84. (Puccamp-SP) Na última fila de poltronas de um
-ônibus, dois passageiros estão distando 2 m entre
-si. Se o ônibus faz uma curva fechada, de raio 40 m,
-com velocidade de 36 km/h, a diferença das veloci-
-dades dos passageiros é, aproximadamente, em
-metros por segundo,
-a) 0,1
-b) 0,2
-c) 0,5
-d) 1,0
-e) 1,5
- </p>
-    <p>85. (Unimep-SP) Uma partícula percorre uma traje-
-tória circular de raio 10 m com velocidade constan-
-te em módulo, gastando 4,0 s num percurso de
-80 m. Assim sendo, o período e a aceleração desse
-movimento serão, respectivamente, iguais a:
-
-a) 	
-s e zero
-2 d)
-b) 	
-s e 40 m/s 2
-3 e) 	 s e 40 m/s 2
-c) 	 s e 20 m/s 2
-</p>
-
-
-    <p>86.(UERJ) Utilize os dados a seguir para resolver as ques-
-tões de números 86 e 87.
-Uma das atrações típicas do circo é o equilibrista
-sobre monociclo.
-O raio da roda do monociclo utilizado é igual a
-20 cm, e o movimento do equilibrista é retilíneo. O
-equilibrista percorre, no início de sua apresentação,
-uma distância de 24	 metros.
-Determine o número de pedaladas, por segun-
-do, necessárias para que ele percorra essa distância
-em 30 s, considerando o movimento uniforme.
-
- </p>
-    <p>87.Em outro momento, o monociclo começa a se
-mover a partir do repouso com aceleração constan-
-te de 0,50 m/s 2 . Calcule a velocidade média do
-equilibrista no trajeto percorrido nos primeiros 6,0 s.</p>
-
-    <p>88. (Fuvest-SP) Um disco de raio r gira com velocida-
-de angular 
- constante. Na borda do disco, está
-presa uma placa fina de material facilmente
-perfurável. Um projétil é disparado com velocidade
-v em direção ao eixo do disco, conforme mostra a
-figura, e fura a placa no ponto A. Enquanto o pro-
-jétil prossegue sua trajetória sobre o disco, a placa
-gira meia circunferência, de forma que o projétil
-atravessa mais uma vez o mesmo orifício que havia
-perfurado. Considere a velocidade do projétil cons-
-tante e sua trajetória retilínea. O módulo da veloci-
-dade v do projétil é:
-a)
-
- r
-	
-b) 2
- r
-	
-c)
-
- r
-2 	
-d) 
-r
-e) 	
-
-</p>
-    <p>89. (Unirio-RJ) O mecanismo apresentado na figura
-é utilizado para enrolar mangueiras após terem sido
-usadas no combate a incêndios. A mangueira é
-enrolada sobre si mesma, camada sobre camada,
-formando um carretel cada vez mais espesso. Con-
-siderando ser o diâmetro da polia A maior que o
-diâmetro da polia B, quando giramos a manivela
-M com velocidade constante, verificamos que a po-
-que a polia A, enquanto a
-lia B gira
-extremidade P da mangueira sobe com movimento
 .
-Preenche corretamente as lacunas acima a opção:
-a) mais rapidamente – aceleração
-b) mais rapidamente – uniforme
-c) com a mesma velocidade – uniforme
-d) mais lentamente – uniforme
-e) mais lentamente – acelerado
-</p>
-    <p>90. (Fuvest-SP) Uma criança montada em um velocí-
-pede se desloca em trajetória retilínea, com veloci-
-dade constante em relação ao chão. A roda diantei-
-ra descreve uma volta completa em um segundo. O
-raio da roda dianteira vale 24 cm e o das traseiras
-16 cm. Podemos afirmar que as rodas traseiras do
-velocípede completam uma volta em, aproximada-
-mente:
-a) 1
-s
-2 d)
-b) 2
-s
-3 e) 2 s
-c) 1 s </p>
+Certamente a figura correta é:
+a,b,c,d,e
+    </p>
 
 
+    <p>
+    134. (Fameca-SP) A seqüência representa um menino
+que gira uma pedra através de um fio, de massa
+desprezível, numa velocidade constante. Num determinado
+instante, o fio se rompe.
+a) Transcreva a figura C para sua folha de respostas
+e represente a trajetória da pedra após o rompimento
+do fio.
+b) Supondo-se que a pedra passe a percorrer uma
+superfície horizontal, sem atrito, que tipo de movimento
+ela descreverá após o rompimento do fio?
+Justifique sua resposta.
 
+    </p>
+
+
+    <p>
+    135. (Fuvest-SP) Um ventilador de teto, com eixo vertical,
+é constituído por três pás iguais e rígidas, encaixadas
+em um rotor de raio R  0,10 m, formando
+ângulos de 120° entre si. Cada pá tem massa
+M  0,20 kg e comprimento L  0,50 m. No centro
+de uma das pás foi fixado um prego P, com massa
+mp  0,020 kg, que desequilibra o ventilador, principalmente
+quando ele se movimenta.
+Suponha, então, o ventilador girando com uma velocidade
+de 60 rotações por minuto e determine:
+
+a) A intensidade da força radial horizontal F, em
+newtons, exercida pelo prego sobre o rotor.
+b) A massa M0, em kg, de um pequeno contrapeso
+que deve ser colocado em um ponto D0, sobre a
+borda do rotor, para que a resultante das forças horizontais,
+agindo sobre o rotor, seja nula.
+c) A posição do ponto D0, localizando-a no esquema
+da folha de respostas.
+(Se necessário utilize 	  3)
+    </p>
+
+
+    <p>
+    136. (FMU-SP) A velocidade que deve ter um corpo
+que descreve uma curva de 100 m de raio, para que
+fique sujeito a uma força centrípeta numericamente
+igual ao seu peso, é
+Obs.: Considere a aceleração da gravidade igual a
+10 m/s2.
+a) 31,6 m/s c) 63,2 m/s e) 630,4 m/s
+b) 1 000 m/s d) 9,8 m/s
+    </p>
+
+
+    <p>
+    137.  (FGV-SP) Um automóvel de 1 720 kg entra em
+uma curva de raio r  200 m, a 108 km/h. Sabendo
+que o coeficiente de atrito entre os pneus do automóvel
+e a rodovia é igual a 0,3, considere as afirmações:
+I – O automóvel está a uma velocidade segura para
+fazer a curva.
+II – O automóvel irá derrapar radialmente para fora
+da curva.
+III – A força centrípeta do automóvel excede a força
+de atrito.
+IV – A força de atrito é o produto da força normal
+do automóvel e o coeficiente de atrito.
+Baseado nas afirmações acima, verifique:
+a) Apenas I está correta.
+b) As afirmativas I e IV estão corretas.
+c) Apenas II e III estão corretas.
+d) Estão corretas I, III e IV.
+e) Estão corretas II, III e IV.
+
+    </p>
+
+
+    <p>
+    138.  (Unitau-SP) Um corpo de massa 1,0 kg, acoplado
+a uma mola, descreve uma trajetória circular de
+raio 1,0 m em um plano horizontal, sem atrito, à
+razão de 30 voltas por segundo. Estando a mola
+deformada de 2,0 cm, pode-se afirmar que sua constante
+elástica vale:
+a) 	2 N/m d) 	2  103 N/m
+b) 	  10 N/m e) 1,8	2  105 N/m
+c) p	2  102 N/m
+
+    </p>
+
+
+    <p>
+    139. (FGV-SP) A figura
+representa uma rodagigante
+que gira com
+velocidade angular
+constante em torno do
+eixo horizontal fixo
+que passa por seu centro
+C.
+Numa das cadeiras há um passageiro, de 60 kg de
+massa, sentado sobre uma balança de mola
+(dinamômetro), cuja indicação varia de acordo com
+a posição do passageiro. No ponto mais alto da trajetória
+o dinamômetro indica 234 N e no ponto mais
+baixo indica 954 N. Considere a variação do comprimento
+da mola desprezível quando comparada ao
+raio da roda. Calcule o valor da aceleração local da
+gravidade.
+    </p>
+
+
+    <p>
+    140. (Fuvest-SP) Um carrinho é largado do alto de
+uma montanha russa, conforme a figura. Ele se
+movimenta, sem atrito e sem soltar-se dos trilhos,
+até atingir o plano horizontal. Sabe-se que os raios
+de curvatura da pista em A e B são iguais. Considere
+as seguintes afirmações:
+III – No ponto A, a resultante das forças que agem
+sobre o carrinho é dirigida para baixo.
+III – A intensidade da força centrípeta que age sobre
+o carrinho é maior em A do que em B.
+III – No ponto B, o peso do carrinho é maior do que
+a intensidade da força normal que o trilho exerce
+sobre ele.
+
+Está correto apenas o que se afirma em:
+a) I b) II c) III d) I e II e) II e III
+
+    </p>
+
+
+    <p>
+    141. (UFES) A figura 01 abaixo representa uma esfera
+da massa m, em repouso, suspensa por um fio
+inextensível de massa desprezível. A figura 02 representa
+o mesmo conjunto oscilando como um pêndulo,
+no instante em que a esfera passa pelo ponto
+mais baixo de sua trajetória.
+
+A respeito da tensão no fio e do peso da esfera respectivamente,
+no caso da Figura 01 (T1 e P1) e no
+caso da Figura 02 (T2 e P2), podemos dizer que:
+a) T1  T2 e P1  P2 d) T1 
+ T2 e P1  P2
+b) T1  T2 e P1  P2 e) T1 
+ T2 e P1  P2
+c) T1  T2 e P1 
+ P2
+
+    </p>
+
+
+    <p>
+    142. (UFAL) O período de um pêndulo simples é dado
+por T  2 	
+L
+g
+, sendo L o comprimento do fio e
+g a aceleração local da gravidade. Qual a razão entre
+o período de um pêndulo na Terra e num planeta
+hipotético onde a aceleração gravitacional é quatro
+vezes maior que a terrestre?
+    </p>
+
+
+    <p>
+    92. 
+    </p>
+
+
+    <p>
+    143. (UFSC) Observando os quatro pêndulos da figura,
+podemos afirmar:
+a) O pêndulo A oscila mais devagar que o pêndulo B.
+b) O pêndulo A oscila mais devagar que o pêndulo C.
+c) O pêndulo B e o pêndulo D possuem mesma freqüência
+de oscilação.
+d) O pêndulo B oscila mais devagar que o pêndulo D.
+e) O pêndulo C e o pêndulo D possuem mesma freqüência
+de oscilação.
+
+    </p>
+
+
+    <p>
+    144. (MACK-SP) Regulamos num dia frio e ao nível
+do mar um relógio de pêndulo de cobre. Este mesmo
+relógio, e no mesmo local, num dia quente deverá:
+a) não sofrer alteração no seu funcionamento
+b) adiantar
+c) atrasar
+d) aumentar a freqüência de suas oscilações
+e) n.d.a.
+    </p>
+
+
+    <p>
+    145. (UFPR) Como resultado de uma série de experiências,
+concluiu-se que o período T das pequenas
+oscilações de um pêndulo simples de comprimento L é dado por T  k
+L
+g
+, onde g é a aceleração da
+gravidade e k uma constante.
+Com base neste resultado e usando conceitos do
+movimento oscilatório, é correto afirmar:
+01. k é uma constante adimensional.
+02. Se o mesmo pêndulo for levado a um local onde
+g é maior, seu período também será maior.
+04. Se o comprimento L for reduzido à metade, o
+período medido será igual a
+T
+2
+.
+08. O período medido das oscilações não mudará se
+suas amplitudes forem variadas, contanto que permaneçam
+pequenas.
+16. A freqüência das oscilações do pêndulo será de
+5 Hz caso ele leve 5 s para efetuar uma oscilação
+completa.
+32. Se o intervalo de tempo entre duas passagens
+consecutivas do pêndulo pelo ponto mais baixo de
+sua trajetória for 2 s, seu período será igual a 4 s.
+    </p>
+
+
+    <p>
+    146. (Uniube-MG) O centro de uma caixa de massa
+M desloca-se de uma distância d com aceleração a
+constante sobre a superfície horizontal de uma mesa
+sob a ação das forças F, fc, N e P. Considere fc a força
+de atrito cinético 
+De acordo com a figura acima, pode-se afirmar que
+realizam trabalho, apenas, as forças
+a) F e fc c) fc e N
+b) F e N d) fc e P
+
+    </p>
+
+
+    <p>
+    147. (FMJ-SP) Um grupo de pessoas, por intermédio
+de uma corda, arrasta um caixote de 50 kg em movimento
+retilíneo praticamente uniforme, na direção
+da corda. Sendo a velocidade do caixote 0,50 m/s e
+a tração aplicada pelo grupo de pessoas na corda
+igual a 1 200 N, o trabalho realizado por essa tração,
+em 10 s, é, no mínimo, igual a:
+a) 1,2  102 J d) 6,0  103 J
+b) 6,0  102 J e) 6,0  104 J
+c) 1,2  103 J
+    </p>
+
+
+    <p>
+    148. (UFES) Uma partícula de massa 50 g realiza um
+movimento circular uniforme quando presa a um fio
+ideal de comprimento 30 cm. O trabalho total realizado
+pela tração no fio, sobre a partícula, durante o
+percurso de uma volta e meia, é:
+a) 0 b) 2p J c) 4p J d) 6p J e) 9p J
+    </p>
+
+
+    <p>
+    149. (UCS-RS) Um corpo de 4 kg move-se sobre uma
+superfície plana e
+horizontal com atrito.
+As únicas forças
+que atuam no corpo
+(a força F e a força
+de atrito cinético)
+estão representadas
+no gráfico.
+Considere as afirmações.
+I – O trabalho realizado pela força F, deslocando o
+corpo de 0 a 2 m, é igual a 40 joules.
+II – O trabalho realizado pela força de atrito cinético,
+deslocando o corpo de 0 a 4 m, é negativo.
+III – De 0 a 2 m, o corpo desloca-se com aceleração
+constante.
+IV – O trabalho total realizado pelas forças que atuam
+no corpo, deslocando-o de 0 a 4 m, é igual a 40
+joules.
+É certo concluir que:
+a) apenas a I e a II estão corretas.
+b) apenas a I, a II e a III estão corretas.
+c) apenas a I, a III e a IV estão corretas.
+d) apenas a II, a III e a IV estão corretas.
+e) todas estão corretas.
+
+    </p>
+
+
+    <p>
+    150. (USJT-SP) Sobre um corpo de massa 2 kg aplica-
+se uma força constante. A velocidade do móvel
+varia com o tempo, de acordo com o gráfico.
+Podemos afirmar que o trabalho realizado nos 10
+segundos tem módulo de:
+a) 100 J c) 600 J e) 2 100 J
+b) 300 J d) 900 J
+
+    </p>
+
+
+    <p>
+    151. (UFSM-RS) Uma partícula de 2 kg de massa é
+abandonada de uma altura de 10 m. Depois de certo
+intervalo de tempo, logo após o início do movimento,
+a partícula atinge uma velocidade de módulo
+3 m/s. Durante esse intervalo de tempo, o trabalho
+(em J) da força peso sobre a partícula, ignorando a
+resistência do ar, é:
+a) 6 c) 20 e) 200
+b) 9 d) 60
+    </p>
+
+
+    <p>
+    152. (Unifor-CE) Um menino de massa 20 kg desce
+por um escorregador de 3,0 m de altura em relação
+à areia de um tanque, na base do escorregador.
+Adotando g  10 m/s2, o trabalho realizado pela
+força do menino vale, em joules:
+a) 600 c) 300 e) 60
+b) 400 d) 200
+    </p>
+
+
+    <p>
+    153. (PUCC-SP) Um operário leva um bloco de massa
+50 kg até uma altura de 6,0 m, por meio de um
+plano inclinado sem atrito, de comprimento 10 m,
+como mostra a figura abaixo.
+
+Sabendo que a aceleração da gravidade é
+g  10 m/s2 e que o bloco sobe com velocidade constante,
+a intensidade da força exercida pelo operário,
+em newtons, e o trabalho que ele realiza nessa
+operação, em joules, valem, respectivamente:
+a) 5,0  102 e 5,0  103 d) 3,0  102 e 4,0  103
+b) 5,0  102 e 4,0  103 e) 3,0  102 e 3,0  103
+c) 4,0  102 e 4,0  103
+
+    </p>
+
+
+    <p>
+    154. Uma mola pendurada num suporte apresenta
+comprimento igual a 20 cm. Na sua extremidade livre
+dependura-se um balde vazio, cuja massa é
+0,50 kg. Em seguida coloca-se água no balde até
+que o comprimento da mola atinja 40 cm. O gráfico
+abaixo ilustra a força que a mola exerce sobre o balde
+em função do seu comprimento. Adote
+g  10 m/s2
+
+Determine:
+a) a massa de água colocada no balde;
+b) o trabalho da força-elástica ao final do processo.
+
+    </p>
+
+
+    <p>
+    155. (ENEM) Muitas usinas hidroelétricas estão situadas
+em barragens. As características de algumas das
+grandes represas e usinas brasileiras estão apresentadas
+no quadro abaixo.
+A razão entre a área da região alagada por uma represa
+e a potência produzida pela usina nela instalada
+é uma das formas de estimar a relação entre o
+dano e o benefício trazidos por um projeto
+hidroelétrico. A partir dos dados apresentados no
+quadro, o projeto que mais onerou o ambiente em
+termos de área alagada por potência foi:
+a) Tucuruí d) Ilha Solteira
+b) Furnas e) Sobradinho
+c) Itaipu
+
+    </p>
+
+
+    <p>
+    156. (Uniube-MG) Para verificar se o motor de um
+elevador forneceria potência suficiente ao efetuar
+determinados trabalhos, esse motor passou pelos
+seguintes testes:
+I –Transportar 1 000 kg até 20 m de altura em 10 s.
+II –Transportar 2 000 kg até 10 m de altura em 20 s.
+III – Transportar 3 000 kg até 15 m de altura em 30 s.
+IV –Transportar 4 000 kg até 30 m de altura em
+100 s.
+O motor utilizará maior potência ao efetuar o trabalho
+correspondente ao:
+a) teste III c) teste I
+b) teste II d) teste IV
+
+    </p>
+
+
+    <p>
+    157. (UFG) O brasileiro Ronaldo da Costa, também
+conhecido por Ronaldinho, 28 anos, bateu, em
+20/09/98, o recorde mundial da maratona de Berlim
+(42,195 km), com o tempo de 2h06min05s, atingindo
+a velocidade média aproximada de 5,58 m/s.
+Em relação a essa maratona, assinale com (C) as afirmativas
+certas e com (E) as erradas:
+1 – ( ) Nessa maratona Ronaldinho superou a velocidade
+de 20,00 km/h.
+2 – ( ) A energia química produzida no corpo do
+maratonista é transformada em energia mecânica e
+calor.
+3 – ( ) A grande quantidade de água perdida pelo
+corpo dos maratonistas, durante o percurso, é essencial
+para evitar o aumento da temperatura do
+corpo dos atletas.
+4 – ( ) Se a potência média desenvolvida pelos maratonistas,
+nessa atividade física, for de 800 watts,
+pode-se afirmar que Ronaldinho consumiu, nessa
+corrida, uma energia superior a 6 000 kJ.
+    </p>
+
+
+    <p>
+    158. (Cesupa-PA) Uma pessoa pretende substituir seu
+carro, capaz de desenvolver potência média de
+40 000 W em 10 segundos, por um outro mais potente.
+Para isso, consulta revistas especializadas que
+oferecem dados que possibilitam a comparação de
+qualidades técnicas. Considere que alguns desses
+dados estão representados no gráfico abaixo, indicando
+o módulo da velocidade em função do tempo,
+para um carro cuja massa é 1 000 kg. A pessoa
+conclui que o carro analisado no gráfico é melhor
+que o seu, pois desenvolve, no mesmo intervalo de
+tempo, a potência média de:
+a) 41 000 W d) 46 200 W
+b) 42 500 W e) 48 400 W
+c) 45 000 W
+
+    </p>
+
+
+    <p>
+    159. (Fafeod-MG) 6 000 litros de água pura, de densidade
+103 kg/m3, foram bombeados na vertical para
+uma caixa situada a 4 m de altura em 10 min. Qual
+a potência dissipada pela bomba e o trabalho que
+ela realizou, respectivamente?
+a) 4,0  103 W e 2,4  103 J
+b) 2,4 kJ e 4,0 kW
+c) 0,4 kJ e 240 W
+d) 0,4 kW e 240 kJ
+e) 4,0  102 W e 2,4  103 J
+    </p>
+
+
+    <p>
+    160. Uma força é aplicada na direção e no sentido
+do movimento de um certo automóvel de massa
+igual a 800 kg, cuja intensidade (F) varia em função
+da posição (S) deste automóvel, conforme mostrado
+no gráfico a seguir. Com base neste gráfico, determine
+a potência média desenvolvida, sabendo que
+os 20 m são realizados em 1 minuto.
+    </p>
+
+
+    <p>
+    161. (Fuvest-SP) Uma empilhadeira transporta do
+chão até uma prateleira, a 6 m do chão, um pacote
+de 120 kg. O gráfico ilustra a altura do pacote em
+função do tempo:
+A potência aplicada ao corpo pela empilhadeira é:
+a) 120 W d) 1 200 W
+b) 360 W e) 2 400 W
+c) 720 W
+
+    </p>
+
+
+    <p>
+    162. (ITA-SP) Deixa-se cair continuamente areia de
+um reservatório a uma taxa de 3,0 kg/s diretamente
+sobre uma esteira que se move na direção horizontal
+com velocidade V
+→
+. Considere que a camada de
+areia depositada sobre a esteira se locomove com a mesma velocidade V
+→
+, devido ao atrito. Desprezando
+a existência de quaisquer outros atritos, concluise
+que a potência em watts, requerida para manter
+a esteira movendo-se a 4,0 m/s, é:
+a) 0 b) 3 c) 12 d) 24 e) 48
+
+    </p>
+
+
+    <p>
+    163. (MACK-SP) Quando são fornecidos 800 J em
+10 s para um motor, ele dissipa internamente 200 J.
+O rendimento desse motor é:
+a) 75% b) 50% c) 25% d) 15% e) 10%
+    </p>
+
+
+    <p>
+    164. (ITA-SP) Uma escada rolante transporta passageiros
+do andar térreo A ao andar superior B, com
+velocidade constante. A escada tem comprimento
+total igual a 15 m, degraus em número de 75 e inclinação
+igual a 30º. Determine:
+a) o trabalho da força motora necessária para elevar
+um passageiro de 80 kg de A até B;
+b) a potência correspondente ao item anterior empregada
+pelo motor que aciona o mecanismo efetuando
+o transporte em 30 s;
+c) o rendimento do motor, sabendo-se que sua potência
+total é 400 watts (sen 30º  0,5; g  10 m/s2).
+    </p>
+
+
+    <p>
+    165. (ENEM) O esquema abaixo mostra, em termos
+de potência (energia/tempo), aproximadamente, o
+fluxo de energia, a partir de uma certa quantidade
+de combustível vinda do tanque de gasolina, em um
+carro viajando com velocidade constante.
+O esquema mostra que, na queima da gasolina, no
+motor de combustão, uma parte considerável de sua
+energia é dissipada. Essa perda é da ordem de:
+a) 80% d) 30%
+b) 70% e) 20%
+c) 50%
+
+    </p>
+
+
+    <p>
+    166. (Fuvest-SP) Em uma caminhada, um jovem consome
+1 litro de O2 por minuto, quantidade exigida
+por reações que fornecem a seu organismo
+20 kJ/minuto (ou 5 “calorias dietéticas”/minuto). Em
+dado momento, o jovem passa a correr, voltando
+depois a caminhar. O gráfico representa seu consumo
+de oxigênio em função do tempo
+Por ter corrido, o jovem utilizou uma quantidade de
+energia a mais, do que se tivesse apenas caminhado
+durante todo o tempo, aproximadamente, de:
+a) 10 kJ d) 420 kJ
+b) 21 kJ e) 480 kJ
+c) 200 kJ
+    </p>
+
+
+    <p>
+    167. (Vunesp-SP) A fotossíntese é uma reação bioquímica
+que ocorre nas plantas, para a qual é necessária
+a energia da luz do Sol, cujo espectro de freqüência
+é dado a seguir.
+a) Sabendo que a fotossíntese ocorre predominantemente
+nas folhas verdes, de qual ou quais faixas
+de freqüências do espectro da luz solar as plantas
+absorvem menos energia nesse processo? Justifique.
+b) Num determinado local, a energia radiante do Sol
+atinge a superfície da Terra com intensidade de 1 000
+W/m2. Se a área de uma folha exposta ao Sol é de
+50 cm2 e 20% da radiação incidente é aproveitada
+na fotossíntese, qual a energia absorvida por essa
+folha em 10 minutos de insolação?
+
+    </p>
+
+
+    <p>
+    168. (Fuvest-SP) Um ciclista em estrada plana mantém
+velocidade constante V0  5,0 m/s (18 km/h).
+Ciclista e bicicleta têm massa total M  90 kg. Em
+determinado momento, t  t0, o ciclista pára de pedalar
+e a velocidade V da bicicleta passa a diminuir
+com o tempo, conforme o gráfico abaixo
+Assim, determine:
+a) A aceleração A, em metros por segundo ao quadrado,
+da bicicleta logo após o ciclista deixar de pedalar.
+b) A força de resistência total FR, em newtons, sobre
+o ciclista e sua bicicleta, devida principalmente ao
+atrito dos pneus e à resistência do ar, quando a velocidade
+é V0.
+c) A energia E, em kJ, que o ciclista “queimaria”
+pedalando durante meia hora à velocidade V0. Suponha
+que a eficiência do organismo do ciclista (definida
+como a razão entre o trabalho realizado para
+pedalar e a energia metabolizada por seu organismo)
+seja de 22,5%.
+
+    </p>
+
+
+    <p>
+    169. (UFG) Cada turbina de uma hidroelétrica recebe
+cerca de 103 m3 de água por segundo, numa
+queda de 100 m. Se cada turbina assegura uma
+potência de 700 000 kW, qual é a perda percentual
+de energia nesse processo? Dados: g  10 m/s2 e
+dágua  103 kg/m3
+    </p>
+
+
+    <p>
+    170. (ESPM-SP) Uma bola e um carrinho têm a mesma
+massa, mas a bola tem o dobro da velocidade
+do carrinho. Comparando a energia cinética do carrinho
+com a energia cinética da bola, esta é:
+a) quatro vezes maior que a do carrinho
+b) 60% maior que a do carrinho
+c) 40% maior que a do carrinho
+d) igual à do carrinho
+e) metade da do carrinho
+    </p>
+
+
+    <p>
+    171. (MACK-SP) No conjunto abaixo, os fios e as polias
+são ideais e o coeficiente de atrito cinético entre
+o bloco B e a mesa é   0,2. Num dado instante,
+esse corpo passa pelo ponto X com velocidade
+0,50 m/s. No instante em que ele passar pelo ponto
+Y, a energia cinética do corpo A será:
+a) 0,125 J c) 11,25 J e) 17 J
+b) 1,25 J d) 12,5 J
+
+    </p>
+
+
+    <p>
+    172. (Fuvest-SP) Uma pessoa puxa um caixote, com
+uma força F, ao longo de uma rampa inclinada 30°
+com a horizontal, conforme a figura, sendo desprezível
+o atrito entre o caixote e a rampa. O caixote,
+de massa m, desloca-se com velocidade v constante,
+durante um certo intervalo de tempo t. Considere
+as seguintes afirmações:
+III – O trabalho realizado pela força F é igual a F  v  t.
+III – O trabalho realizado pela força F é igual a
+m  g  v 
+t
+2
+.
+III – A energia potencial gravitacional varia de
+m  g  v 
+t
+2
+.
+Está correto apenas o que se afirma em:
+a) III c) I e III e) I, II e III
+b) I e II d) II e III
+
+    </p>
+
+
+    <p>
+    173. (Cesgranrio-RJ) Suponha que um carro, batendo
+de frente, passe de 10 m/s ao repouso em 0,50 m.
+Qual é a ordem de grandeza da força média que o
+cinto de segurança, se fosse usado, exerceria sobre
+o motorista (m  100 kg) durante a batida.
+a) 100 N d) 106 N
+b) 102 N e) 108 N
+c) 104 N
+    </p>
+
+
+    <p>
+    174. (UFRS) Uma partícula movimenta-se inicialmente
+com energia cinética de 250 J. Durante algum tempo,
+atua sobre ela uma força resultante com módulo
+de 50 N, cuja orientação é, a cada instante, perpendicular
+à velocidade linear da partícula; nessa situação,
+a partícula percorre uma trajetória com comprimento
+de 3 m. Depois, atua sobre a partícula uma
+força resultante em sentido contrário à sua velocidade
+linear, realizando um trabalho de 100 J. Qual
+é a energia cinética final da partícula?
+a) 150 2J c) 300 J e) 500 J
+b) 250 J d) 350 J
+    </p>
+
+
+    <p>
+    175. (MACK-SP) A potência da força resultante que
+age sobre um carro de 500 kg, que se movimenta
+em uma trajetória retilínea com aceleração constante,
+é dada, em função do tempo, pelo diagrama
+abaixo. No instante 4 s a velocidade do carro era de:
+a) 30 m/s c) 20 m/s e) 10 m/s
+b) 25 m/s d) 15 m/s
+
+    </p>
+
+
+    <p>
+    176. (Unip-SP) Uma pedra é lançada verticalmente
+para cima, de um ponto A, com velocidade de módulo
+V1. Após um certo intervalo de tempo a pedra retorna
+ao ponto A com velocidade de módulo V2.
+A respeito dos valores de V1 e V2 podemos afirmar:
+I – Necessariamente V1  V2.
+II – Desprezando o efeito do ar: V1  V2.
+III – Levando em conta o efeito do ar: V1  V2.
+IV – Levando em conta o efeito do ar: V1 
+ V2.
+Responda mediante o código:
+a) apenas I está correta
+b) apenas II e IV estão corretas
+c) apenas II e III estão corretas
+d) apenas III está correta
+e) apenas IV está correta
+    </p>
+
+
+    <p>
+    177. (UFJF-MG) Considere as seguintes afirmações:
+1. O trabalho realizado por uma força não conservativa
+representa uma transferência irreversível de energia
+2. A soma das energias cinética e potencial num sistema
+físico pode ser chamada de energia mecânica
+apenas quando não há forças dissipativas atuando
+sobre o sistema.
+Quanto a essas sentenças, pode-se afirmar que:
+a) as duas estão corretas
+b) a primeira está incorreta e a segunda está correta
+c) a primeira está correta e a segunda incorreta
+d) ambas estão incorretas
+
+    </p>
+
+
+    <p>
+    178. (Fafi-BH) Um atleta atira uma bola de 0,5 kg para
+cima, com velocidade inicial de 10 m/s. Admita que
+a energia potencial inicial seja nula. (Use g  10 m/s2.)
+Com relação a essa situação, é correto afirmar que
+a energia mecânica total quando a bola estiver no
+topo da trajetória, é:
+a) 50 J c) 5,0 J
+b) 25 J d) nula
+    </p>
+
+
+    <p>
+    179. (UFLA-MG) Um bloco de massa M  10 kg desliza
+sem atrito entre os trechos A e B indicados na
+figura abaixo. Supondo g (aceleração da gravidade)
+ 10 m/s2, h1  10 m e h2  5 m.
+Obtenha a velocidade do bloco no ponto B
+
+    </p>
+
+
+    <p>
+    180. (UFPE) Um praticante de esqui sobre gelo, inicialmente
+em repouso, parte da altura h em uma
+pista sem atrito, conforme indica a figura abaixo.
+Sabendo-se que sua velocidade é de 20 m/s no ponto
+A, calcule a altura h, em metros.
+    </p>
+
+
+    <p>
+    181. (Unimep-SP) Uma pedra com massa
+m  0,20 kg é lançada verticalmente para cima com
+energia cinética EC  40 J. Considerando-se
+g  10 m/s2 e que em virtude do atrito com o ar,
+durante a subida da pedra, é gerada uma quantidade
+de calor igual a 15 J, a altura máxima atingida
+pela pedra será de:
+a) 14 m c) 10 m e) 15 m
+b) 11,5 m d) 12,5 m
+    </p>
+
+
+    <p>
+    182. (Unipa-MG) Uma pequena esfera é solta de uma
+altura HA (onde HA  HC) para realizar o movimento
+sobre a superfície regular mostrada na figura abaixo
+Sabendo-se que a velocidade da bolinha no ponto C
+é nula, foram feitas as seguintes afirmações:
+I – apenas uma parte da energia potencial inicial
+da esfera foi mantida como energia potencial no final
+do movimento.
+II – as forças que atuam no experimento acima são
+conservativas.
+III – a energia mecânica da esfera no ponto A é igual
+à sua energia mecânica no ponto B.
+Pode-se afirmar que:
+a) apenas a afirmativa I é verdadeira
+b) apenas as afirmativas I e II são verdadeiras
+c) apenas as afirmativas I e III são verdadeiras
+d) apenas as afirmativas II e III são verdadeiras
+e) todas as afirmativas são verdadeiras
+
+    </p>
+
+
+    <p>
+    183. (Vunesp-SP) Para tentar vencer um desnível de
+0,5 m entre duas calçadas planas e horizontais, mostradas
+na figura, um garoto de 50 kg, brincando com
+um skate (de massa desprezível), impulsiona-se até
+adquirir uma energia cinética de 300 J
+Desprezando-se quaisquer atritos e considerando-se
+g  10 m/s2, pode-se concluir que, com essa energia:
+a) não conseguirá vencer sequer metade do desnível.
+b) conseguirá vencer somente metade do desnível.
+c) conseguirá ultrapassar metade do desnível, mas
+não conseguirá vencê-lo totalmente.
+d) não só conseguirá vencer o desnível, como ainda
+lhe sobrarão pouco menos de 30 J de energia
+cinética.
+e) não só conseguirá vencer o desnível, como ainda
+lhe sobrarão mais de 30 J de energia cinética.
+
+    </p>
+
+
+    <p>
+    184. (UERJ) Numa partida de futebol, o goleiro bate
+o tiro de meta e a bola, de massa 0,5 kg, sai do solo
+com velocidade de módulo igual a 10 m/s, conforme
+mostra a figura.
+No ponto P, a 2 metros do solo, um jogador da defesa
+adversária cabeceia a bola. Considerando
+g  10 m/s2, a energia cinética da bola no ponto P
+vale, em joules:
+a) 0 c) 10
+b) 5 d) 15
+
+    </p>
+
+
+    <p>
+    185. (UEPA) As conhecidas estrelas cadentes são na
+verdade meteoritos (fragmentos de rocha extraterrestre)
+que, atraídos pela força gravitacional da Terra,
+se aquecem ao atravessar a atmosfera, produzindo
+o seu brilho. Denotando a energia cinética por
+EC, a energia potencial por EP e a energia térmica
+por Et, a seqüência de transformações de energia
+envolvidas desde o insta2nte em que o meteorito
+atinge a atmosfera são, nesta ordem:
+a) EC → EP e EC → Et d) EP → Et e Et → EC
+b) EC → EP e EP → Et e) Et → EP e Et → EC
+c) EP → EC e EC → Et
+    </p>
+
+
+    <p>
+    186. (Esam-RN) Uma criança de massa igual a 20 kg
+desce de um escorregador com 2 m de altura e chega
+no solo com velocidade de 6 m/s.
+Sendo 10 m/s2, o módulo da aceleração da gravidade
+local, a energia mecânica dissipada, em joules, é igual a:
+a) 10 b) 20 c) 30 d) 40 e) 50
+    </p>
+
+
+    <p>
+    187. (ENEM) A tabela a seguir apresenta alguns
+exemplos de processos, fenômenos ou objetos em
+que ocorrem transformações de energia. Nessa tabela,
+aparecem as direções de transformações de energia.
+Por exemplo, o termopar é um dispositivo onde
+energia térmica se transforma em energia elétrica.  
+Dentre os processos indicados na tabela, ocorre conservação
+de energia:
+a) em todos os processos
+b) somente nos processos que envolvem transformações
+de energia sem dissipação de calor
+c) somente nos processos que envolvem transformações
+de energia mecânica
+d) somente nos processos que não envolvem energia
+química
+e) somente nos processos que não envolvem nem
+energia química nem energia térmica
+    </p>
+
+
+    <p>
+    188. (PUC-SP) Num bate-estaca, um bloco de ferro
+de massa superior a 500 kg cai de uma certa altura
+sobre a estaca, atingindo o repouso logo após a
+queda. São desprezadas as dissipações de energia
+nas engrenagens do motor
+A respeito da situação descrita são feitas as seguintes
+afirmações:
+III – Houve transformação de energia potencial
+gravitacional do bloco de ferro, em energia cinética
+que será máxima no instante imediatamente anterior
+ao choque com a estaca.
+III – Como o bloco parou após o choque com a estaca,
+toda energia do sistema desapareceu.
+III – A potência do motor do bate-estaca será tanto maior,
+quanto menor for o tempo gasto para erguer o bloco
+de ferro até a altura ocupada por ele, antes de cair.
+É(são) verdadeira(s):
+a) somente I d) somente I e III
+b) somente II e) todas as afirmações
+c) somente I e II
+    </p>
+
+
+    <p>
+    189. (Cesupa) No playcenter de São Paulo, uma das
+mais emocionantes diversões é o Skycoaster, representado
+na figura abaixo, com capacidade para até
+3 pessoas. Os pontos 1 e 3 são extremos da trajetória,
+com forma aproximada de um arco de circunferência,
+percorrida pelos corajosos usuários. O ponto
+2 é o mais baixo dessa trajetória. A partir do ponto
+1 inicia-se o movimento pendular sem velocidade
+inicial. A tabela abaixo indica dados aproximados
+para essa situação.
+
+Considerando que os cabos são ideais, pode-se concluir
+que a tração no cabo na
+posição 2 vale.
+a) 1 600 N c) 3 600 N e) 5 600 N
+b) 2 000 N d) 4 800 N
+
+    </p>
+
+
+    <p>
+    190. Considerando os dados da questão anterior, a
+energia mecânica, em joule, dissipada durante o
+movimento, desde o ponto 1 até o ponto 3, vale:
+a) 42 000 c) 100 000 e) 152 000
+b) 68 000 d) 110 000
+    </p>
+
+
+    <p>
+    191. (UFJF-MG) Um trenó, com um esquimó, começa
+a descer por uma rampa de gelo, partindo do
+repouso no ponto C, à altura de 20 m. Depois de
+passar pelo ponto A, atinge uma barreira de proteção
+em B, conforme a figura abaixo. O conjunto trenó-
+esquimó possui massa total de 90 kg. O trecho
+AB encontra-se na horizontal. Despreze as dimensões
+do conjunto, o atrito e a resistência do ar durante
+o movimento.
+
+a) Usando o princípio da conservação da energia
+mecânica, calcule a velocidade com que o conjunto
+chega ao ponto A, na base da rampa.
+b) Em B encontra-se uma barreira de proteção feita
+de material deformável, usada para parar o conjunto
+após a descida. Considere que, durante o choque,
+a barreira não se desloca e que o conjunto choca-
+se contra ele e pára. Sabendo-se que a barreira
+de proteção sofreu uma deformação de 1,5 m durante
+o choque, calcule a força média exercida por
+ela sobre o conjunto.
+
+    </p>
+
+
+    <p>
+    192. (UFMG) Um bloco de massa 0,20 kg desce deslizando
+sobre a superfície mostrada na figura.
+
+No ponto A, a 60 cm acima do plano horizontal EBC,
+o bloco tem uma velocidade de 2,0 m/s e ao passar
+pelo ponto B sua velocidade é de 3,0 m/s. (Considere
+g  10 m/s2.)
+
+a) Mostre, usando idéias relacionadas ao conceito
+de energia, que, entre os pontos A e B, existe atrito
+entre o bloco e a superfície.
+b) Determine o trabalho realizado pela força de atrito
+que atua no bloco entre os pontos A e B.
+c) Determine o valor do coeficiente de atrito entre
+a superfície horizontal e o bloco, sabendo que
+ele chega ao repouso no ponto C, distante 90 cm
+de B.
+
+    </p>
+
+
+    <p>
+    193. (UFGO) A energia potencial de um carrinho em
+uma montanha-russa varia, como mostra a figura a
+seguir. 
+Sabe-se que em x  2 m, a energia cinética é igual a
+2 J, e que não há atrito, sobre o carrinho, entre as
+posições x  0 e x  7 m. Desprezando a resistência
+do ar, determine:
+a) a energia mecânica total do carrinho
+b) a energia cinética e potencial do carrinho na posição
+x  7 m
+c) a força de atrito que deve atuar no carrinho, a
+partir do posição x  7 m, para levá-lo ao repouso
+em 5 m
+
+    </p>
+
+
+    <p>
+    194. (UFCE) Um bloco de massa m  5 kg encontrase
+numa superfície curva a uma altura h0  10 m do
+chão, como mostra a figura. Na região plana da figura,
+de comprimento 10 m existe atrito. O coeficiente
+de atrito dinâmico entre o bloco e o chão é
+m  0,1. O bloco é solto a partir do repouso.
+a) Indique num diagrama as forças sobre o bloco
+quando este encontra-se na parte curva e na parte
+plana da trajetória.
+b) Calcule a altura máxima que o bloco irá atingir quando
+chegar pela primeira vez à parte curva da direita.
+c) Quantas vezes o bloco irá passar pelo plano antes
+de parar definitivamente?
+
+    </p>
+
+
+    <p>
+    195. (Uneb-BA) Um bloco de 0,2 kg, movendo-se
+sobre um plano liso horizontal a 72 km/h, atinge uma
+mola de constante elástica 20 N/cm.
+A compressão máxima sofrida pela mola é
+a) 10 cm b) 20 cm c) 30 cm d) 40 cm e) 50 cm
+    </p>
+
+
+    <p>
+    196. (PUC-MG) Na figura desta questão a mola tem
+constante elástica k  1,0  103 N/m e está comprimida
+de 0,20 m. A única
+força horizontal que atua na
+esfera após ela ter abandonado
+a mola é a força de
+atrito cinético, que é constante
+e vale 10 N. A distância
+percorrida pela esfera,
+em metros, até parar, é:
+a) 4,0 b) 3,2 c) 2,0 d) 1,5 e) 1,0
+    </p>
+
+
+    <p>
+    197. (UFES) Pressiona-se uma pequena esfera de
+massa 1,8 g contra uma mola de massa desprezível
+na posição vertical, comprimindo-a de 6,0 cm. A
+esfera é então solta e atinge uma altura máxima de
+10 m, a partir do ponto em que ela perde contato
+com a mola. Desprezando os atritos, a constante elástica
+da mola é, em newtrons por metro:
+a)3 b)10 c)30 d)50 e)100
+    </p>
+
+
+    <p>
+    198. (UECE) Um corpo de massa m  250 g está em
+contato com uma mola, de massa desprezível, comprimida
+de uma distância de 25 cm do seu tamanho
+original. A mola é então solta e empurra o corpo em
+direção a um círculo de raio 50 cm, conforme indicado
+na figura. Suponha que não haja atrito em
+nenhuma superfície.
+A constante de mola K, necessária para que o corpo
+complete a volta em torno do círculo, é, pelo menos:
+a) 100 kg/s2 c) 40 kg/s2
+b) 80 kg/s2 d) 20 kg/s2
+
+    </p>
+
+
+    <p>
+    199. (UFV-MG) Um bloco de massa m é mantido em
+repouso no ponto A da figura, comprimindo de uma
+distância x uma mola de constante elástica k. O bloco,
+após abandonado, é empurrado pela mola e após
+liberado por essa passa pelo ponto B chegando em
+C. Imediatamente depois de chegar no ponto C, esse
+bloco tem uma colisão perfeitamente inelástica com
+outro bloco, de massa M, percorrendo o conjunto
+uma distância L até parar no ponto D. São desprezíveis
+os atritos no trecho compreendido entre os pontos
+A e C. Considere os valores de m, x, k, h, M e L,
+bem como o módulo da aceleração gravitacional
+local, g, apresentados a seguir:
+
+a) Calcule a(s) modalidade(s) de energia mecânica
+em cada ponto apresentado abaixo, completando o
+quadro, no que couber, atentando para o nível de
+referência para energia potencial gravitacional, assinalado
+na figura.
+
+b) Calcule a velocidade do bloco quando chega em C.
+c) Supondo os dois blocos do mesmo material, determine
+o coeficiente de atrito cinético entre os blocos
+e a superfície plana.
+
+    </p>
+
+
+    <p>
+    200. (Uneb-BA) Para que uma partícula A, de massa
+2 kg, tenha a mesma quantidade de movimento de
+uma partícula B, de massa 400 g, que se move a
+90 km/h, é necessário que tenha uma velocidade,
+em metros por segundo, de:
+a)1 b)3 c)5 d)7 e)9
+    </p>
+
+
+ 
       <!-- /.row -->
     </section>
     <!-- /.content -->
