@@ -572,6 +572,12 @@ ao atrito com A (  0,4). O menor módulo da ace-
 leração do conjunto, necessário para que isso ocor-
 ra, é: Adote g  10 m/s 2 .
 
+
+
+
+
+
+sss
 a) 25 m/s 2 c) 15 m/s 2
 b) 20 m/s 2 d) 10 m/ 2
 B
