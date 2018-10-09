@@ -1,0 +1,3 @@
+Iniciar lamp:
+sudo /opt/lampp/lampp start
+
