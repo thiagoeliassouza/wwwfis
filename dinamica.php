@@ -1881,7 +1881,622 @@ a)1 b)3 c)5 d)7 e)9
     </p>
 
 
- 
+
+    <p>
+    201. (MACK-SP) Um automóvel de massa 1,0  10 3 kg
+desloca-se com veloci-
+x (m)
+dade constante numa
+5
+estrada retilínea, quan-
+do, no instante t  0,
+inicia-se o estudo de seu
+2
+movimento. Após os re-
+0
+5
+t (s)
+gistros de algumas po-
+sições, construiu-se o
+4
+gráfico abaixo, da posi-
+ção (x) em função do
+tempo (t). O módulo do
+vetor quantidade de
+movimento no instante
+t  5 s é:
+
+a) 1,0  10 3 kg  m/s d) 3,0  10 3 kg  m/s
+b) 1,8  10 3 kg  m/s e) 5,0  10 3 kg  m/s
+c) 2,0  10 kg  m/s
+
+    </p>
+
+
+    <p>
+    202. Unitau-SP) Um corpo de massa m desloca-se
+sobre um plano horizontal, sem atrito. Ao chocar-se
+com uma mola de constante elástica k, causa uma
+deformação máxima x, como indica a figura. No
+momento do choque, a quantidade de movimento
+do corpo é igual a:
+
+a) xmk d) x(mk)
+b) x 2 mk e) x
+1
+2
+1
+2
+(mk)
+c) xm 2 k 2
+
+    </p>
+
+
+    <p>
+    92. 
+    </p>
+
+
+    <p>
+    203. (MACK-SP) O corpo C, de massa m, é abando-
+nado do repouso no ponto A do trilho liso abaixo e,
+após realizar o looping de raio R, atinge o trecho
+horizontal. Desprezando qualquer resistência ao des-
+locamento e sabendo que a aceleração gravitacional
+→
+local é g , o módulo da quantidade de movimento
+desse corpo, ao passar pelo ponto B do trilho, é:
+a) m 
+R
+R  g
+b) m  R g
+c) m  g R
+d) 5 m  R  g
+2
+e) 2 m  R  g
+5
+
+    </p>
+
+
+    <p>
+    204.  (UFSM-RS) Um jogador chuta uma bola de
+0,4 kg, parada, imprimindo-lhe uma velocidade de
+módulo 30 m/s. Se a força sobre a bola tem uma
+intensidade média de 600 N, o tempo de contato
+do pé do jogador com a bola, em segundos, é de:
+a) 0,02 d) 0,6
+b) 0,06 e) 0,8
+c) 0,2
+    </p>
+
+
+    <p>
+    205. O gráfico mostra a variação do módulo da força re-
+sultante que atua num corpo em função do tempo.
+A variação da quantidade de movimento do corpo,
+nos primeiros 10 segundos, em kgm/s, é:
+a) 1  10 2 c) 7  10 2
+b) 5  10 2 d) 8  10 2
+e) 1  10 3
+    </p>
+
+
+    <p>
+    206. (Unesp-SP) Uma esfera de aço de massa 0,20 kg
+é abandonada de uma altura de 5,0 m, atinge o solo
+e volta, alcançando a altura máxima de 1,8 m. Des-
+preze a resistência do ar e suponha que o choque
+da esfera como o solo ocorra durante um intervalo
+de tempo de 0,050 s. Levando em conta esse inter-
+valo de tempo, determine:
+a) a perda de energia mecânica e o módulo da vari-
+ação da quantidade de movimento da esfera;
+b) a força média exercida pelo solo sobre a esfera.
+Adote g  10 m/s 2
+    </p>
+
+
+    <p>
+    207. (MACK-SP) Devido à ação da força resultante,
+um automóvel parte do repouso e descreve movi-
+mento retilíneo de aceleração constante. Observa-
+se que, 5 s após a partida, a potência da força resul-
+tante é 22,5 kW e a quantidade de movimento do
+automóvel é 7,5 kN  s. A massa desse automóvel é
+a) 450 kg c) 550 kg
+e) 700 kg
+b) 500 kg d) 600 kg
+
+    </p>
+
+
+    <p>
+    208. (Unitau-SP) Uma garota de massa m está sobre
+um carrinho de massa 4m e segura em sua mão uma
+bola de massa m , todos em repouso em relação
+10
+ao solo. Ela atira a bola, horizontalmente, com velo-
+cidade de 21 m/s em relação ao carrinho. Despre-
+zando-se qualquer atrito, o módulo da velocidade
+de recuo do carrinho é aproximadamente igual a:
+a) 1,0 m/s c) 0,50 m/s
+b) 2,0 m/s d) 0,41 m/s
+e) zero
+    </p>
+
+
+    <p>
+    209. (UERJ) Um homem de 70 kg corre ao encontro
+de um carrinho de 30 kg, que se desloca livremen-
+te. Para um observador fixo no solo, o homem se
+desloca a 3,0 m/s e o carrinho a 1,0 m/s, no mesmo
+sentido.
+Após alcançar o carrinho, o homem salta para cima
+dele, passando ambos a se deslocar, segundo o
+mesmo observador, com velocidade estimada de:
+a) 1,2 m/s c) 3,6 m/s
+b) 2,4 m/s d) 4,8 m/s
+    </p>
+
+
+    <p>
+    210. (MACK-SP) Na figura, o menino e o carrinho
+têm juntos 60 kg. Quando o menino salta do carri-
+nho em repouso, com velocidade horizontal de 2 m/s,
+o carrinho vai para trás com velocidade de 3 m/s.
+Deste modo, podemos afirmar que a massa do me-
+nino é de:
+a) 12 kg c) 36 kg
+b) 24 kg d) 48 kg
+e) 54 kg
+
+    </p>
+
+
+    <p>
+    211. (Unifor-CE) Um caixote de massa 2,0 kg, aber-
+to em sua parte superior, desloca-se com velocidade
+constante de 0,40 m/s sobre um plano horizontal
+sem atrito. Começa, então, a chover intensamente
+na vertical. Quando o caixote tiver armazenado
+2,0 kg de água, sua velocidade será, em m/s,
+a) 0,05
+c) 0,20
+b) 0,10
+d) 0,40
+e) 0,80
+
+    </p>
+
+
+    <p>
+    212. (UFU-MG) Um passageiro de 90 kg viaja no ban-
+co da frente de um carro, que se move a 30 km/h. O
+carro, cuja massa é 810 kg, colide com um poste,
+parando bruscamente. A velocidade com a qual o
+passageiro será projetado para a frente, caso não
+esteja utilizando o cinto de segurança, será, aproxi-
+madamente:
+a) 30 km/h d) 90 km/h
+b) 300 km/h e) 15 km/h
+c) 150 km/h
+    </p>
+
+
+    <p>
+    213. Um corpo de massa 2 kg colide com um corpo
+parado, de massa 1 kg, que, imediatamente após a
+colisão, passa a mover-se com energia cinética de 2 J.
+Considera-se o choque central e perfeitamente elás-
+tico. Calcule a velocidade do primeiro corpo imedia-
+tamente antes da colisão.
+    </p>
+
+
+    <p>
+    214. (ITA-SP) Um martelo de bate-estacas funciona
+levantando um corpo de pequenas dimensões e de
+massa 70,0 kg acima do topo de uma estaca de
+massa 30,0 kg. Quando a altura do corpo acima da
+estaca é de 2,00 m, ela afunda 0,50 m no solo. Su-
+pondo uma aceleração da gravidade de 10,0 m/s 2 e
+considerando o choque inelástico, determine a for-
+ça média de resistência à penetração da estaca.
+    </p>
+
+
+    <p>
+    215. (UECE) Oito esferas estão suspensas, sendo
+quatro de massa M  150 g e quatro de massa
+m  50 g, por fios flexíveis, inextensíveis e de mas-
+sas desprezíveis, conforme a figura. Se uma esfera
+de massa M for deslocada de sua posição inicial e
+solta, ela colidirá frontalmente com o grupo de es-
+feras estacionadas.
+
+Considere o choque entre as esferas perfeitamente
+elástico. O número n de esferas de massa m que se
+moverão é:
+a) um
+b) dois
+c) três
+d) quatro
+    </p>
+
+
+    <p>
+    216. (Vunesp-SP) A figura mostra o gráfico das velo-
+cidades de dois carrinhos que se movem sem atrito
+sobre um mesmo par de trilhos horizontais e
+retilíneos. Em torno do instante 3 segundos, os car-
+rinhos colidem.
+Se as massas dos carrinhos 1 e 2 são, respectiva-
+mente, m 1 e m 2 , então:
+a) m 1  3m 2 d) 3m 1  7m 2
+b) 3m 1  m 2 e) 5m 1  3m 2
+c) 3m 1  5m 2
+
+    </p>
+
+
+    <p>
+    217. (UFRJ) Uma esfera de massa igual a 100 g está
+sobre uma superfície horizontal sem atrito, e pren-
+de-se à extremidade de uma mola de massa despre-
+zível e constante elástica igual a 9 N/m. A outra ex-
+tremidade da mola está presa a um suporte fixo,
+conforme mostra a figura (no alto, à direita). Inicial-
+mente a esfera encontra-se em repouso e a mola
+nos seu comprimento natural. A esfera é então atin-
+gida por um pêndulo de mesma massa que cai de
+uma altura igual a 0,5 m. Suponha a colisão elástica
+e g  10 m/s 2 .
+Calcule:
+a) as velocidades da esfera e do pêndulo imediata-
+mente após a colisão  
+b) a compressão máxima da mola
+    </p>
+
+
+    <p>
+    218. (UERJ) Um certo núcleo atômico N, inicialmen-
+te em repouso, sofre uma desintegração radioativa,
+fragmentando-se em três partículas, cujos momen-
+→ →
+→
+tos lineares são: P 1 , P 2 e P 3 . A figura abaixo mostra
+os vetores que representam os momentos lineares
+→
+→
+das partículas 1 e 2, P 1 e P 2 , imediatamente após a
+desintegração.
+N
+←
+O vetor que melhor
+representa o momento
+→
+linear da partícula 3, P 3 , é:
+a,b,c,d
+    </p>
+
+
+    <p>
+    219. (Fuvest-SP) Dois caixotes de mesma altura e
+mesma massa, A e B, podem movimentar-se sobre
+uma superfície plana sem atrito. Estando inicialmente
+A parado próximo a uma parede, o caixote B aproxi-
+ma-se perpendicularmente à parede com velocida-
+de V 0 , provocando uma sucessão de colisões elásti-
+cas no plano da figura.
+
+Após todas as colisões, é possível afirmar que os
+módulos das velocidades dos dois blocos serão apro-
+ximadamente:
+a) V A  V 0 e V B  0
+b) V A 
+V 0
+e V B  2V 0
+2
+c) V A  0 e V B  2V 0
+d) V A 
+V 0
+2
+V 0
+e V B 
+2
+e) V A  0 e V B  V 0
+    </p>
+
+
+    <p>
+    220. (UFSE) Na figura, que representa esquematica-
+mente o movimento de um planeta em torno do
+Sol, a velocidade do planeta é maior em:
+a,b,c,d,e
+    </p>
+
+
+    <p>
+    221. (UFSC) Sobre as leis de Kepler, assinale a(s)
+proposição(ões) verdadeira(s) para o sistema solar.
+(01) O valor da velocidade de revolução da Terra em
+torno do Sol, quando sua trajetória está mais próxi-
+ma do Sol, é maior do que quando está mais afasta-
+da do mesmo.
+(02) Os planetas mais afastados do Sol têm um perí-
+odo de revolução em torno do mesmo maior que os
+mais próximos.
+(04) Os planetas de maior massa levam mais tempo
+para dar uma volta em torno do Sol, devido à sua
+inércia.
+(08) O Sol está situado num dos focos da órbita
+elíptica de um dado planeta.
+(16) Quanto maior for o período de rotação de um
+dado planeta, maior será o seu período de revolu-
+ção em torno do Sol.
+(32) No caso especial da Terra, a órbita é exatamen-
+te uma circunferência.
+    </p>
+
+
+    <p>
+    222. Um satélite artificial A se move em órbita circu-
+lar em torno da Terra com um período de 25 dias.
+Um outro satélite B possui órbita circular de raio 9 ve-
+zes maior do que A. Calcule o período do satélite B
+    </p>
+
+
+    <p>
+    223. (ITA-SP) Estima-se que em alguns bilhões de
+anos o raio médio da órbita da Lua estará 50% mai-
+or do que é atualmente. Naquela época seu perío-
+do, que hoje é de 27,3 dias, seria:
+a) 14,1 dias c) 27,3 dia
+b) 18,2 dias d) 41,0 dia
+d) 41,0 dias
+
+    </p>
+
+
+    <p>
+    224. (Fuvest-SP) A Estação Espacial Internacional, que
+está sendo construída num esforço conjunto de di-
+versos países, deverá orbitar a uma distância do cen-
+tro da Terra igual a 1,05 do raio médio da Terra. A
+F
+razão R  e , entre a força F e com que a Terra
+F
+atrai um corpo nessa Estação e a força F com que a
+Terra atrai o mesmo corpo na superfície da Terra, é
+aproximadamente de
+a) 0,02 c) 0,10 
+b) 0,05 c) 0,10
+e) 0,90
+    </p>
+
+
+    <p>
+    225. UFSM-RS) Dois corpos esféricos de mesma
+massa têm seus centros separados por uma certa
+distância, maior que o seu diâmetro. Se a massa de
+um deles for reduzida à metade e a distância entre
+seus centros, duplicada, o módulo da força de atra-
+ção gravitacional que existe entre eles estará multi-
+plicado por:
+a) 8
+c) 1
+e) 1
+8
+b) 4
+d) 1
+4
+
+    </p>
+
+
+    <p>
+    226. (PUCC-SP) Considere um planeta que tenha raio
+e massa duas vezes maiores que os da Terra. Sendo
+a aceleração da gravidade na superfície da Terra igual
+a 10 m/s 2 , na superfície daquele planeta ela vale,
+em metros por segundo ao quadrado:
+a) 2,5 c) 10
+b) 5,0 d) 15
+e) 20
+    </p>
+
+
+    <p>
+    227. UFAL) Para que a aceleração da gravidade num
+ponto tenha intensidade de 1,1 m/s 2 (nove vezes
+menor que na superfície da Terra), a distância desse
+ponto à superfície terrestre deve ser:
+a) igual ao raio terrestre
+b) o dobro do raio terrestre
+c) o triplo do raio terrestre
+R
+A
+d) o sêxtuplo do raio terrestre
+e) nove vezes o raio terrestre
+    </p>
+
+
+    <p>
+    228. (UE Sudoeste da Bahia-BA) Um planeta X tem
+massa três vezes maior que a massa da Terra e raio
+cinco vezes maior que o raio da Terra. Uma pessoa
+de massa 50 kg deve pesar, na superfície do planeta
+X, aproximadamente:
+a) 40 N
+c) 50 N
+b) 60 N
+d) 70 N
+e) 80 N
+
+    </p>
+
+
+    <p>
+    229. (UFMG) Um corpo está situado ao nível do mar
+e próximo da linha do equador. Sejam m E e P E a massa
+e o peso do corpo nessa posição. Suponha que esse
+corpo seja transportado para as proximidades do
+pólo Norte, permanecendo, ainda, ao nível do mar.
+Sejam m N e P N , os valores de sua massa e de seu
+peso nessa posição. Considerando essas informa-
+ções, pode-se afirmar que:
+a) m N  m E e P N  P E
+b) m N  m E e P N 
+ P E
+ c) m N  m E e P N  P E
+ d) m N  m E e P N  P E
+ e) m N 
+ m E e P N  P E
+    </p>
+
+
+    <p>
+    230. (U. Tocantins-TO) Um astronauta, em órbita da
+Terra a bordo de uma espaçonave, está submetido à
+ação da gravidade. No entanto, ele flutua em rela-
+ção aos objetos que estão dentro da espaçonave.
+Tal fenômeno ocorre porque:
+a) O somatório das forças que atuam sobre a nave é
+igual a zero.
+b) A formulação da questão está incorreta, pois eles
+não flutuam.
+c) A velocidade centrífuga da nave é que torna
+inviável a queda.
+d) O astronauta e tudo o que está dentro da nave
+“caem” com a mesma aceleração, em direção à
+Terra.
+e) A Lua atrai a nave com uma força igual à da Ter-
+ra, por isso a nave se mantém em equilíbrio, não
+caindo sobre a Terra.
+    </p>
+
+
+    <p>
+    231. (Unicamp-SP) Um míssil é lançado horizontal-
+mente em órbita circular rasante à superfície da Ter-
+ra. Adote o raio da Terra R  6 400 km e, para sim-
+plificar, tome 3 como valor aproximado de 	.
+a) Qual é a velocidade de lançamento?
+b) Qual é o período da órbita?
+    </p>
+
+
+    <p>
+    232. (Cefet-PR) Dois satélites artificiais giram em tor-
+no da Terra em órbitas de mesma altura. O primeiro
+tem massa m 1 , e o segundo, massa 3m 1 . Se o pri-
+meiro tem período de 6 h, o período do outro será,
+em horas, igual a:
+a) 18 d) 6 3
+b) 2 e) 3 2
+c) 6
+
+    </p>
+
+
+    <p>
+    233. (Inatel-MG) Um satélite permanece em órbita
+circular terrestre de raio R com velocidade tangencial
+v. Qual deverá ser a velocidade tangencial desse sa-
+télite para permanecer em órbita circular lunar de
+mesmo raio R? Considere a massa da Lua 81 vezes
+menor que a da Terra
+    </p>
+
+
+    <p>
+    234. (UFRJ) A tabela abaixo ilustra uma das leis do
+movimento dos planetas: a razão entre o cubo da
+distância D de um planeta ao Sol e o quadrado do
+seu período de revolução T em torno do Sol é cons-
+tante. O período é medido em anos e a distância em
+unidades astronômicas (UA). A unidade astronômi-
+ca é igual à distância média entre o Sol e a Terra.
+Suponha que o Sol esteja no centro comum das
+órbitas circulares dos planetas.
+
+Um astrônomo amador supõe ter descoberto um
+novo planeta no sistema solar e o batiza como pla-
+neta X. O período estimado do planeta X é de 125
+anos. Calcule:
+a) a distância do planeta X ao Sol em UA
+b) a razão entre a velocidade orbital do planeta X e
+a velocidade orbital da Terra
+
+    </p>
+
+
+    <p>
+    235. (Fuvest-SP) Estamos no ano de 2095 e a
+“interplanetariamente” famosa FIFA (Federação
+Interplanetária de Futebol Amador) está organizan-
+do o Campeonato Interplanetário de Futebol, a se
+realizar em Marte no ano 2100. Ficou estabelecido
+que o comprimento do campo deve corresponder à
+distância do chute de máximo alcance conseguido
+por um bom jogador. Na Terra esta distância vale
+L T  100 m. Suponha que o jogo seja realizado numa
+atmosfera semelhante à da Terra e que, como na
+Terra, possamos desprezar os efeitos do ar, e ainda,
+que a máxima velocidade que um bom jogador con-
+segue imprimir à bola seja igual à na Terra. Suponha 
+que
+M M
+R
+ 0,1 e M  0,5, onde M M e R M são a
+M T
+R T
+massa e o raio de Marte e M T e R T são a massa e raio
+da Terra.
+a) Determine a razão
+g M
+entre os valores da ace-
+g T
+leração da gravidade em Marte e na Terra.
+b) Determine o valor aproximado L M , em metros, do
+comprimento do campo em Marte
+c) Determine o valor aproximado do tempo t M , em
+segundos, gasto pela bola, em um chute de máxi-
+mo alcance, para atravessar o campo em Marte (ado-
+te g T  10 m/s 2 )
+
+    </p>
+
+
+    <p>
+    236. (UnB-DF) O estabelecimento das idéias a res-
+peito da gravitação universal é considerado uma das
+conquistas mais importantes no desenvolvimento das
+ciências em geral e, particularmente, da Física. A sua
+compreensão é fundamental para o entendimento
+dos movimentos da Lua, dos planetas, dos satélites
+e mesmo dos corpos próximos à superfície da Terra.
+Em relação a esse assunto, julgue os itens abaixo.
+a) Para que a Lua descreva o seu movimento orbital
+ao redor da Terra, é necessário que a resultante das
+forças que atuam sobre ela não seja nula.
+b) Um satélite em órbita circular ao redor da Terra
+move-se perpendicularmente ao campo gravitacional
+terrestre.
+c) A força gravitacional sobre um satélite sempre re-
+aliza trabalho, independentemente de sua órbita ser
+circular ou elíptica.
+d) Um corpo, quando solto próximo à superfície ter-
+restre, cai em direção a ela pelo mesmo motivo que
+a Lua descreve sua órbita em torno da Terra.
+    </p>
+
+
+
+
       <!-- /.row -->
     </section>
     <!-- /.content -->
