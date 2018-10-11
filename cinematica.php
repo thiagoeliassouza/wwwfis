@@ -39,206 +39,153 @@
     </h2>
     <p>
     1. (EFOA-MG) Um aluno, sentado na carteira da sala, observa os colegas, também sentados nas respectivas
-carteiras, bem como um mosquito que voa
-perseguindo o professor que fiscaliza a prova da
-turma.
-Das alternativas abaixo, a única que retrata uma
-análise correta do aluno é:<br>
-a) A velocidade de todos os meus colegas é nula
-para todo observador na superfície da Terra.<br>
-b) Eu estou em repouso em relação aos meus colegas,
-mas nós estamos em movimento em relação a
-todo observador na superfície da Terra.<br>
-c) Como não há repouso absoluto, não há nenhum
-referencial em relação ao qual nós, estudantes, estejamos
-em repouso.<br>
-d) A velocidade do mosquito é a mesma, tanto em
-relação ao meus colegas, quanto em relação ao professor.<br>
-e) Mesmo para o professor, que não pára de andar
-pela sala, seria possível achar um referencial em relação
-ao qual ele estivesse em repouso.
+    carteiras, bem como um mosquito que voa perseguindo o professor que fiscaliza a prova da
+    turma. Das alternativas abaixo, a única que retrata uma
+    análise correta do aluno é:<br><br>
+    a) A velocidade de todos os meus colegas é nula
+    para todo observador na superfície da Terra.<br>
+    b) Eu estou em repouso em relação aos meus colegas,
+    mas nós estamos em movimento em relação a
+    todo observador na superfície da Terra.<br>
+    c) Como não há repouso absoluto, não há nenhum
+    referencial em relação ao qual nós, estudantes, estejamos
+    em repouso.<br>
+    d) A velocidade do mosquito é a mesma, tanto em
+    relação ao meus colegas, quanto em relação ao professor.<br>
+    e) Mesmo para o professor, que não pára de andar
+    pela sala, seria possível achar um referencial em relação
+    ao qual ele estivesse em repouso.
     </p>
 
     <p>
-      2. (Unitau-SP) Um móvel parte do km 50, indo até
-o km 60, onde, mudando o sentido do movimento,
-vai até o km 32. O deslocamento escalar e a
-distância efetivamente percorrida são, respectivamente:
-a) 28 km e 28 km d) 18 km e 18 km
-b) 18 km e 38 km e) 38 km e 18 km
-c) 18 km e 38 km
+        2. (Unitau-SP) Um móvel parte do km 50, indo até o km 60, onde, mudando o sentido do movimento, vai até o km 32. O deslocamento escalar e a distância efetivamente percorrida são, respectivamente:<br>
+        a) 28 km e 28 km <br>
+        d) 18 km e 18 km<br>
+        b) 18 km e 38 km <br>
+        e) 38 km e 18 km<br>
+        c) 18 km e 38 km<br>
     </p>
 
 
 
      <p>
-      3. (Unisinos-RS) Numa pista atlética retangular de
-lados a  160 m e b  60 m,
-um atleta corre com velocidade
-de módulo constante v  5 m/s,
-no sentido horário, conforme
-mostrado na figura. Em t  0 s,
-o atleta encontra-se no ponto A.
-O módulo do deslocamento do
-atleta, após 60 s de corrida, em
-metros, é:
-a) 100 d) 10 000
-b) 220 e) 18 000
-c) 300
+        3. (Unisinos-RS) Numa pista atlética retangular de lados a = 160 m e b = 60 m, um atleta corre com velocidade de módulo constante v = 5 m/s,
+        no sentido horário, conforme mostrado na figura.<br>
+         Em t = 0 s, o atleta encontra-se no ponto A. O módulo do deslocamento do
+        atleta, após 60 s de corrida, em metros, é:<br>
+        a) 100<br> d) 10 000<br>
+        b) 220<br> e) 18 000<br>
+        c) 300<br>
     </p>
 
-    <p>4. (UEL-PR) Um homem caminha com velocidade
-vH  3,6 km/h, uma ave, com velocidade
-vA  30 m/min, e um inseto, com vI  60 cm/s.
-Essas velocidades satisfazem a relação:
-a) vI  vH  vA d) vA  vH  vI
-b) vA  vI  vH e) vH  vI  vA
-c) vH  vA  vI</p>
-    <p>5. (UFPA) Maria saiu de Mosqueiro às 6 horas e 30
-minutos, de um ponto da estrada onde o marco
-quilométrico indicava km 60. Ela chegou a Belém às
-7 horas e 15 minutos, onde o marco quilométrico
-da estrada indicava km 0. A velocidade média, em
-quilômetros por hora, do carro de Maria, em sua
-viagem de Mosqueiro até Belém, foi de:
-a) 45 d) 80
-b) 55 e) 120
-c) 60</p>
-    <p>6. (UFRN) Uma das teorias para explicar o aparecimento
-do homem no continente americano propõe
-que ele, vindo da Ásia, entrou na América pelo Estreito
-de Bering e foi migrando para o sul até atingir
-a Patagônia, como indicado no mapa.
-Datações arqueológicas sugerem que foram necessários
-cerca de 10 000 anos para que essa migração
-se realizasse.
-O comprimento AB, mostrado ao lado do mapa, corresponde
-à distância de 5 000 km nesse mesmo mapa.
+    <p>4. (UEL-PR) Um homem caminha com velocidade vH = 3,6 km/h, uma ave, com velocidade vA = 30 m/min, e um inseto, com vI = 60 cm/s.<br>
+    Essas velocidades satisfazem a relação:<br>
+    a) vI > vH > vA d) vA > vH > vI<br>
+    b) vA > vI > vH e) vH > vI > vA<br>
+    c) vH > vA > vI</p><br>
+    
+    <p>5. (UFPA) Maria saiu de Mosqueiro às 6 horas e 30 minutos, de um ponto da estrada onde o marco quilométrico indicava km 60. Ela chegou a Belém às 7 horas e 15 minutos, onde o marco quilométrico da estrada indicava km 0. A velocidade média, em quilômetros por hora, do carro de Maria, em sua viagem de Mosqueiro até Belém, foi de:<br>
+    a) 45<br>
+    d) 80<br>
+    b) 55<br>
+    e) 120<br>
+    c) 60<br>
+    </p>
 
-Com base nesses dados, pode-se estimar que a velocidade
-escalar média de ocupação do continente
-americano pelo homem, ao longo da rota desenhada,
-foi de aproximadamente:
-a) 0,5 km/ano c) 24 km/ano
-b) 8,0 km/ano d) 2,0 km/ano
+    <p>6. (UFRN) Uma das teorias para explicar o aparecimento do homem no continente americano propõe que ele, vindo da Ásia, entrou na América pelo Estreito de Bering e foi migrando para o sul até atingir a Patagônia, como indicado no mapa. <br>
+    Datações arqueológicas sugerem que foram necessários cerca de 10 000 anos para que essa migração se realizasse. O comprimento AB, mostrado ao lado do mapa, corresponde à distância de 5 000 km nesse mesmo mapa.<br>
+
+    Com base nesses dados, pode-se estimar que a velocidade escalar média de ocupação do continente americano pelo homem, ao longo da rota desenhada,
+    foi de aproximadamente:<br>
+    a) 0,5 km/ano <br>
+    c) 24 km/ano<br>
+    b) 8,0 km/ano <br>
+    d) 2,0 km/ano<br>
 </p>
-    <p>7. (Unitau-SP) Um carro mantém uma velocidade
-escalar constante de 72,0 km/h. Em uma hora e
-dez minutos ele percorre, em quilômetros, a distância
-de:
-a) 79,2 d) 84,0
-b) 80,0 e) 90,0
-c) 82,4</p>
-    <p>8. (PUCC-SP) Andrômeda é uma galáxia distante
-2,3  106 anos-luz da Via Láctea, a nossa galáxia. A
-luz proveniente de Andrômeda, viajando à velocidade
-de 3,0  105 km/s, percorre a distância aproximada
-até a Terra, em quilômetros, igual a
-a) 4  1015 d) 7  1021
-b) 6  1017 e) 9  1023
-c) 2  1019</p>
-    <p>9. (UFRS) No trânsito em ruas e estradas, é aconselhável
-os motoristas manterem entre os veículos um
-distanciamento de segurança. Esta separação assegura,
-folgadamente, o espaço necessário para que
-se possa, na maioria dos casos, parar sem risco de
-abalroar o veículo que se encontra na frente. Podese
-calcular esse distanciamento de segurança mediante
-a seguinte regra prática:
-distanciamento (em m) 
-velocidade emkm/ h
-10
-2
-⎡
-⎣ ⎢
-⎤
-⎦ ⎥
-Em comparação com o distanciamento necessário
-para um automóvel que anda a 70 km/h, o distanciamento
-de segurança de um automóvel que trafega
-a 100 km/h aumenta, aproximadamente,
-a) 30% d) 80%
-b) 42% e) 100%
-c) 50%</p>
-    <p>10. (Unimep-SP) A Embraer (Empresa Brasileira
-de Aeronáutica S.A.) está testando seu novo avião,
-o EMB-145. Na opinião dos engenheiros da empresa,
-esse avião é ideal para linhas aéreas ligando cidades
-de porte médio e para pequenas distâncias.
-Conforme anunciado pelos técnicos, a velocidade
-média do avião vale aproximadamente 800 km/h (no
-ar). Assim sendo, o tempo gasto num percurso de
-1 480 km será:
-a) 1 hora e 51 minutos d) 185 minutos
-b) 1 hora e 45 minutos e) 1 hora e 48 minutos
-c) 2 horas e 25 minutos</p>
-    <p>11. (MACK-SP) O Sr. José sai de sua casa caminhando
-com velocidade escalar constante de 3,6 km/h,
-dirigindo-se para o supermercado que está a 1,5 km.
-Seu filho Fernão, 5 minutos após, corre ao encontro
-do pai, levando a carteira que ele havia esquecido.
-Sabendo que o rapaz encontra o pai no instante
-em que este chega ao supermercado, podemos afirmar
-que a velocidade escalar média de Fernão foi
-igual a:
-a) 5,4 km/h d) 4,0 km/h
-b) 5,0 km/h e) 3,8 km/h
-c) 4,5 km/h</p>
-    <p>12. (UEPI) Em sua trajetória, um ônibus interestadual
-percorreu 60 km em 80 min, após 10 min de parada,
-seguiu viagem por mais 90 km à velocidade
-média de 60 km/h e, por fim, após 13 min de parada,
-percorreu mais 42 km em 30 min. A afirmativa
-verdadeira sobre o movimento do ônibus, do início
-ao final da viagem, é que ele:
-a) percorreu uma distância total de 160 km
-b) gastou um tempo total igual ao triplo do tempo
-gasto no primeiro trecho de viagem
-c) desenvolveu uma velocidade média de 60,2 km/h
-d) não modificou sua velocidade média em conseqüência
-das paradas
-e) teria desenvolvido uma velocidade média de
-57,6 km/h, se não tivesse feito paradas</p>
-    <p>13. (UFPE) O gráfico representa a posição de uma
-partícula em função do tempo. Qual a velocidade
-média da partícula, em metros por segundo, entre
-os instantes t  2,0 min e t  6,0 min?
 
-a) 1,5 d) 4,5
-b) 2,5 e) 5,5
-c) 3,5
+    <p>7. (Unitau-SP) Um carro mantém uma velocidade escalar constante de 72,0 km/h. Em uma hora e dez minutos ele percorre, em quilômetros, a distância
+    de:
+    a) 79,2<br> d) 84,0<br>
+    b) 80,0 <br>e) 90,0<br>
+    c) 82,4<br></p>
+
+    <p>8. (PUCC-SP) Andrômeda é uma galáxia distante 2,3 x 106 anos-luz da Via Láctea, a nossa galáxia. A luz proveniente de Andrômeda, viajando à velocidade
+    de 3,0 x 105 km/s, percorre a distância aproximada até a Terra, em quilômetros, igual a<br>
+    a) 4 x 1015 <br>d) 7 x 1021<br>
+    b) 6 x 1017<br> e) 9 x 1023<br>
+    c) 2 x 1019<br>
+    </p>
+    
+    <p>9. (UFRS) No trânsito em ruas e estradas, é aconselhável os motoristas manterem entre os veículos um distanciamento de segurança. Esta separação assegura, folgadamente, o espaço necessário para que se possa, na maioria dos casos, parar sem risco de abalroar o veículo que se encontra na frente. Podese
+    calcular esse distanciamento de segurança mediante a seguinte regra prática:<br>
+   
+    Em comparação com o distanciamento necessário para um automóvel que anda a 70 km/h, o distanciamento de segurança de um automóvel que trafega a 100 km/h aumenta, aproximadamente,
+    a) 30% d) 80%
+    b) 42% e) 100%
+    c) 50%</p>
+
+    <p>10. (Unimep-SP) A Embraer (Empresa Brasileira de Aeronáutica S.A.) está testando seu novo avião, o EMB-145. Na opinião dos engenheiros da empresa, esse avião é ideal para linhas aéreas ligando cidades de porte médio e para pequenas distâncias.<br>
+    Conforme anunciado pelos técnicos, a velocidade média do avião vale aproximadamente 800 km/h (no
+    ar). Assim sendo, o tempo gasto num percurso de 1 480 km será:<br>
+    a) 1 hora e 51 minutos<br>
+    d) 185 minutos<br>
+    b) 1 hora e 45 minutos <br>
+    e) 1 hora e 48 minutos<br>
+    c) 2 horas e 25 minutos<br>
+    </p>
+
+    <p>11. (MACK-SP) O Sr. José sai de sua casa caminhando com velocidade escalar constante de 3,6 km/h, dirigindo-se para o supermercado que está a 1,5 km. Seu filho Fernão, 5 minutos após, corre ao encontro do pai, levando a carteira que ele havia esquecido. Sabendo que o rapaz encontra o pai no instante em que este chega ao supermercado, podemos afirmar que a velocidade escalar média de Fernão foi igual a:<br>
+    a) 5,4 km/h<br> d) 4,0 km/h<br>
+    b) 5,0 km/h<br> e) 3,8 km/h<br>
+    c) 4,5 km/h<br></p>
+
+    <p>12. (UEPI) Em sua trajetória, um ônibus interestadual percorreu 60 km em 80 min, após 10 min de parada, seguiu viagem por mais 90 km à velocidade média de 60 km/h e, por fim, após 13 min de parada, percorreu mais 42 km em 30 min. A afirmativa verdadeira sobre o movimento do ônibus, do início ao final da viagem, é que ele:<br>
+    a) percorreu uma distância total de 160 km<br>
+    b) gastou um tempo total igual ao triplo do tempo<br>
+    gasto no primeiro trecho de viagem<br>
+    c) desenvolveu uma velocidade média de 60,2 km/h<br>
+    d) não modificou sua velocidade média em conseqüência
+    das paradas<br>
+    e) teria desenvolvido uma velocidade média de 
+    57,6 km/h, se não tivesse feito paradas<br>
+    </p>
+
+    <p>13. (UFPE) O gráfico representa a posição de uma partícula em função do tempo. Qual a velocidade média da partícula, em metros por segundo, entre os instantes t = 2,0 min e t = 6,0 min? <br>
+    a) 1,5<br> d) 4,5<br>
+    b) 2,5<br> e) 5,5<br>
+    c) 3,5<br>
+    </p>
+
+
+    <p>14. (FURRN) As funções horárias de dois trens que se movimentam em linhas paralelas são: s1 = k1 + 40t e s2 = k2 + 60t, onde o espaço s está em quilômetros e o tempo t está em horas. Sabendo que os trens estão lado a lado no instante t = 2,0 h, a diferença k1 - k2, em quilômetros, é igual a:<br>
+    a) 30<br>
+    d) 80<br>
+    b) 40 <br>
+    e) 100<br>
+    c) 60</p>
+
+
+
+
+    <p>13335. (FEI-SP) O enunciado seguinte refere-se às questões 15 e 16. Dois móveis A e B, ambos com movimento uniforme, percorrem uma trajetória retilínea conforme mostra a figura. Em t = 0, estes se encontram, respectivamente, nos pontos A e B na trajetória. As velocidades dos móveis são vA = 50 m/s e vB = 30 m/s no mesmo sentido.<br>
+
+    Em qual ponto da trajetória ocorrerá o encontro dos móveis?<br>
+    a) 200 m <br>d) 300 m <br>
+    b) 225 m <br> e) 350 m <br>
+    c) 250 m <br>
 
 </p>
-    <p>14. (FURRN) As funções horárias de dois trens que se
-movimentam em linhas paralelas são: s1  k1  40t
-e s2  k2  60t, onde o espaço s está em quilômetros
-e o tempo t está em horas. Sabendo que os
-trens estão lado a lado no instante t  2,0 h, a diferença
-k1  k2, em quilômetros, é igual a:
-a) 30 d) 80
-b) 40 e) 100
-c) 60</p>
-    <p>15. (FEI-SP) O enunciado seguinte refere-se às questões
-15 e 16.
-Dois móveis A e B, ambos com movimento uniforme,
-percorrem uma trajetória retilínea conforme
-mostra a figura. Em t  0, estes se encontram, respectivamente,
-nos pontos A e B na trajetória. As
-velocidades dos móveis são vA  50 m/s e vB  30 m/s
-no mesmo sentido.
-
-Em qual ponto da trajetória ocorrerá o encontro
-dos móveis?
-a) 200 m d) 300 m
-b) 225 m e) 350 m
-c) 250 m
-
-</p>
+    
+    
     <p>16. Em que instante a distância entre os dois móveis
-será 50 m?
-a) 2,0 s d) 3,5 s
-b) 2,5 s e) 4,0 s
-c) 3,0 s</p>
+    será 50 m?<br>
+    a) 2,0 s <br>
+    d) 3,5 s<br>
+    b) 2,5 s<br> 
+    e) 4,0 s<br>
+    c) 3,0 s<br>
+</p>
+
     <p>17. Unimep-SP) Um carro A, viajando a uma velocidade
 constante de 80 km/h, é ultrapassado por um
 carro B. Decorridos 12 minutos, o carro A passa por
@@ -271,12 +218,12 @@ c) 500</p>
     <p>20. (Furg-RS) Dois trens A e B movem-se com velocidades
 constantes de 36 km/h, em direções perpendiculares,
 aproximando-se do ponto de cruzamento
-das linhas. Em t  0 s, a frente do trem A está a
+das linhas. Em t = 0 s, a frente do trem A está a
 uma distância de 2 km do cruzamento. Os comprimentos
 dos trens A e B são, respectivamente, 150 m
 e 100 m. Se o trem B passa depois pelo cruzamento
 e não ocorre colisão, então a distância de sua frente
-até o cruzamento, no instante t  0 s, é, necessariamente,
+até o cruzamento, no instante t = 0 s, é, necessariamente,
 maior que
 a) 250 m d) 2 150 m
 b) 2 000 m e) 2 250 m
@@ -284,13 +231,13 @@ c) 2 050 m</p>
     <p>21. (Unifor-CE) Um móvel se desloca, em movimento
 uniforme, sobre o eixo
 x durante o intervalo de
-tempo de t0  0 a t  30 s.
+tempo de t0 = 0 a t = 30 s.
 O gráfico representa a
 posição x, em função do
 tempo t, para o intervalo
-de t  0 a t  5,0 s.
+de t = 0 a t = 5,0 s.
 O instante em que a posição
-do móvel é 30 m,
+do móvel é -30 m,
 em segundos, é
 a) 10 d) 25
 b) 15 e) 30
@@ -303,21 +250,21 @@ sobre um eixo x, de acordo com o gráfico, em que
 as distâncias são dadas em metros e o tempo, em
 segundos. A partir do gráfico, determine:
 a) a distância percorrida em 1 segundo entre o instante
-t1  0,5 s e t2  1,5 s;
-b) a velocidade média do corpo entre t1  0,0 s e
-t2  2,0 s;
-c) a velocidade instantânea em t  2,0 s.</p>
+t1 = 0,5 s e t2 = 1,5 s;
+b) a velocidade média do corpo entre t1 = 0,0 s e
+t2 = 2,0 s;
+c) a velocidade instantânea em t = 2,0 s.</p>
     <p>23. (UFRN) Um móvel se desloca em MRU, cujo gráfico
 v  t está representado no gráfico. Determine o
 valor do deslocamento do móvel entre os instantes
-t  2,0 s e t  3,0 s.
+t = 2,0 s e t = 3,0 s.
 a) 0 d) 30 m
 b) 10 m e) 40 m
 c) 20 m</p>
 
 
     <p>24. (UFLA-MG) O gráfico representa a variação das
-posições de um móvel em função do tempo (s  f(t)).
+posições de um móvel em função do tempo (s = f(t)).
 O gráfico de v  t que melhor representa o movimento
 dado, é:</p>
     <p>25. (Fuvest-SP) Os gráficos referem-se a movimentos
@@ -358,7 +305,7 @@ c) 20 m/s2
 d) 4,5 m/s2
 e) Nenhuma das anteriores</p>
     <p>29. (MACK-SP) Uma partícula em movimento retilíneo
-desloca-se de acordo com a equação v  4  t,
+desloca-se de acordo com a equação v = -4 + t,
 onde v representa a velocidade escalar em m/s e t, o
 tempo em segundos, a partir do instante zero. O
 deslocamento dessa partícula no intervalo (0 s, 8 s) é:
@@ -409,7 +356,7 @@ carro deve ter para parar antes de atingir o cruzamento
 e não ser multado.
 b) Calcule a menor aceleração constante que o carro
 deve ter para passar pelo cruzamento sem ser multado.
-Aproxime 1,72  3,0.</p>
+Aproxime 1,72 - 3,0.</p>
     <p>34. (UEPI) Uma estrada possui um trecho retilíneo de
 2 000 m, que segue paralelo aos trilhos de uma ferrovia
 também retilínea naquele ponto. No início do
@@ -483,7 +430,7 @@ b) a velocidade média nos primeiros 10 s de prova.</p>
 
     <p>39. (UFPE) O gráfico mostra a variação da velocidade
 de um automóvel em função do tempo. Supondo-
-se que o automóvel passe pela origem em t  0,
+se que o automóvel passe pela origem em t = 0,
 calcule o deslocamento total, em metros, depois de
 transcorridos 25 segundos</p>
 
@@ -563,7 +510,7 @@ função do tempo nos 4 s iniciais do movimento.
 </p>
     <p>45. (UEPI) Um corpo é abandonado de uma altura
 de 20 m num local onde a aceleração da gravidade
-da Terra é dada por g  10 m/s 2 . Desprezando o
+da Terra é dada por g = 10 m/s 2 . Desprezando o
 atrito, o corpo toca o solo com velocidade:
 a) igual a 20 m/s d) igual a 20 km/h
 b) nula e) igual a 15 m/s
@@ -585,8 +532,8 @@ estabilizando em g
 
 </p>
     <p>47. FUC-MT) Um corpo é lançado verticalmente para
-cima com uma velocidade inicial de v 0  30 m/s.
-Sendo g  10 m/s 2 e desprezando a resistência
+cima com uma velocidade inicial de v 0 = 30 m/s.
+Sendo g = 10 m/s 2 e desprezando a resistência
 do ar qual será a velocidade do corpo 2,0 s após o
 lançamento?
 a) 20 m/s d) 40 m/s
@@ -622,7 +569,7 @@ c) 30</p>
 
 
     <p>50. (UFMS) Um corpo em queda livre sujeita-se à ace-
-leração gravitacional g  10 m/s 2 . Ele passa por um
+leração gravitacional g = 10 m/s 2 . Ele passa por um
 ponto A com velocidade 10 m/s e por um ponto B
 com velocidade de 50 m/s. A distância entre os pon-
 tos A e B é:
@@ -696,7 +643,7 @@ e cai livremente durante 1,0 s, quando abre-se o
 pára-quedas. A partir desse instante, mantendo cons-
 tante seu vetor velocidade, o pára-quedista atingirá
 o solo em:
-(Dado: g  10 m/s 2 )
+(Dado: g = 10 m/s 2 )
 a) 7,8 s
 b) 15,6 s
 c) 28 s
@@ -713,7 +660,7 @@ mão direita. Desprezando a distância entre as mãos,
 determine o tempo necessário para uma bola sair
 de uma das mãos do malabarista e chegar à outra,
 conforme o descrito acima.
-(Adote g  10 m/s 2 .) </p>
+(Adote g = 10 m/s 2 .) </p>
 
     <p>57. (Cefet-BA) Um balão em movimento vertical as-
 cendente à velocidade constante de 10 m/s está a
@@ -757,8 +704,8 @@ e) 300
 </p>
     <p>60. (Unitau-SP) Considere o conjunto de vetores re-
 presentados na figura. Sendo igual a 1 o módulo
-de cada vetor, as operações A  B, A  B  C e
-A  B  C  D terão módulos, respectivamente,
+de cada vetor, as operações A + B, A + B + C e
+A + B + C + D terão módulos, respectivamente,
 iguais a:
 
 a) 2; 1; 0
@@ -770,11 +717,11 @@ d) outra resposta
     <p>61.(UEL-PR) Observando-se os vetores indicados no
 esquema, pode-se concluir que
 
-a) X  a  b
-b) X  a  c
-c) X  a  d
-d) X  b  c
-e) X  b  d
+a) X = a + b
+b) X = a + c
+c) X = a + d
+d) X = b + c
+e) X = b + d
  </p>
 
     <p>62. Na figura, o retângulo representa a janela de um
@@ -797,13 +744,13 @@ velocidade constante de módulo v 2 , em relação ao
 veículo, ao longo de PQ no sentido de P para Q.
 
 
-Sendo v 1  v 2 , o módulo da velocidade do passagei-
+Sendo v 1 > v 2 , o módulo da velocidade do passagei-
 ro em relação ao ponto B da rua é:
 ←
 X
-a) v 1  v 2 d) v 1
-b) v 1  v 2 e) v 2
-c) v 2  v 1
+a) v 1 + v 2 d) v 1
+b) v 1 - v 2 e) v 2
+c) v 2 - v 1
 </p>
     <p>64. (FURRN) Um barco, em águas paradas, desen-
 volve uma velocidade de 7 m/s. Esse barco vai cru-
@@ -883,7 +830,7 @@ ma um ângulo de 60o com a horizontal. Desprezan-
 do a resistência do ar, pode-se afirmar que no ponto
 mais alto da trajetória a velocidade do corpo, em
 metros por segundo, será:
-(Dados: sen 60o  0,87; cos 60o  0,50)
+(Dados: sen 60o = 0,87; cos 60o = 0,50)
 a) 5
 b) 10
 c) 25
@@ -895,7 +842,7 @@ Winnipeg, no Canadá, um atleta arremessa um dis-
 co com velocidade de 72 km/h, formando um ân-
 gulo de 30o com a horizontal. Desprezando-se os
 efeitos do ar, a altura máxima atingida pelo disco é:
-(g  10 m/s 2 )
+(g = 10 m/s 2 )
 
 a) 5,0 m d) 25,0 m
 b) 10,0 m e) 64,0 m
@@ -927,7 +874,7 @@ meta e a bola, de massa 0,5 kg, sai do solo com
 velocidade de módulo igual a 10 m/s, conforme
 mostra a figura. No ponto P, a 2 metros do solo, um jogador da de-
 fesa adversária cabeceia a bola. Considerando
-g  10 m/s 2 , determine a velocidade da bola no
+g = 10 m/s 2 , determine a velocidade da bola no
 ponto P</p>
     
     <p>73. (UFPE) Dois bocais de mangueiras de jardim, A e
@@ -958,19 +905,19 @@ os participantes devem ultrapassar um fosso e, para
 tornar possível essa tarefa, foi construída uma ram-
 pa conforme mostra a figura.
 Desprezando as dimensões da moto e considerando
-L  7,0 m, cos 10°  0,98 e sen 10°  0,17, deter-
+L = 7,0 m, cos 10° = 0,98 e sen 10° = 0,17, deter-
 mine a mínima velocidade com que as motos de-
 vem deixar a rampa a fim de que consigam atraves-
-sar o fosso. Faça g  10 m/s 2 .
+sar o fosso. Faça g = 10 m/s 2 .
  </p>
     
     <p>76. (Fuvest-SP) Um motociclista de motocross move-
-se com velocidade v  10 m/s, sobre uma superfície
+se com velocidade v = 10 m/s, sobre uma superfície
 plana, até atingir uma rampa (em A), inclinada 45°
 com a horizontal, como indicado na figura.
 
 A trajetória do motociclista deverá atingir novamente
-a rampa a uma distância horizontal D(D  H), do
+a rampa a uma distância horizontal D(D = H), do
 ponto A, aproximadamente igual a:
 a) 20 m d) 7,5 m
 b) 15 m e) 5 m
@@ -984,7 +931,7 @@ solo, exatamente na vertical que passa por um ob-
 servador colocado no solo. O observador ouve o
 “estouro” da bomba no solo depois de 23 segun-
 dos do lançamento da mesma.
-São dados: aceleração da gravidade g  10 m/s 2 ;
+São dados: aceleração da gravidade g = 10 m/s 2 ;
 velocidade do som no ar: 340 m/s.
 A velocidade do avião no instante do lançamento
 da bomba era, em quilômetros por hora, um valor
@@ -1057,11 +1004,11 @@ a, b, e, d ou e
 II – A partir das definições dos vetores velocidade
 (v) e aceleração (a) justifique a resposta dada no item
 anterior.
-III – Se o raio da circunferência é R  2 m e a fre-
-qüência do movimento é f  120 rotações por mi-
+III – Se o raio da circunferência é R = 2 m e a fre-
+qüência do movimento é f = 120 rotações por mi-
 nuto, calcule os módulos da velocidade e da acele-
 ração.
-Adote 	  3,14.
+Adote 	 = 3,14.
 </p>
 
 

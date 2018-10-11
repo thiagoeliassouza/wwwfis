@@ -53,7 +53,7 @@ b) Represente, também, na mesma figura, o vetor
 →
 →
 →
-c , de tal modo a  b  c  0
+c , de tal modo a + b + c = 0
     </p>
 
     <p>
@@ -61,9 +61,9 @@ c , de tal modo a  b  c  0
     </p>
 
     <p>
-    92. Duas forças de módulos F 1  8 N e F 2  9 N for-
+    92. Duas forças de módulos F 1 = 8 N e F 2 = 9 N for-
 mam entre si um ângulo de 60o.
-Sendo cos 60o  0,5 e sen 60o  0,87, o módulo da
+Sendo cos 60o = 0,5 e sen 60o = 0,87, o módulo da
 força resultante, em newtons, é, aproximadamente,
 a) 8,2 d) 14,7
 b) 9,4 e) 15,6
@@ -84,11 +84,11 @@ a, b, c, d, e
 
 
     <p>
-    94.  (Unipa-MG) Um objeto de massa m  3,0 kg é
+    94.  (Unipa-MG) Um objeto de massa m = 3,0 kg é
 colocado sobre uma superfície sem atrito, no plano
 xy. Sobre esse objeto atuam 3 forças, conforme o
 desenho abaixo.
-Sabendo-se que  F 3   4,0 N e que o objeto adquire
+Sabendo-se que = F 3 = = 4,0 N e que o objeto adquire
 →
 uma aceleração de 2,0 m/s 2 no sentido oposto a F 3 ,
 foram feitas as seguintes afirmações:
@@ -128,7 +128,7 @@ c) 1,0
     <p>
     96. UEPB) Um corpo de 4 kg descreve uma trajetó-
 ria retilínea que obedece à seguinte equação horá-
-ria: x  2  2t  4t 2 , onde x é medido em metros e
+ria: x = 2 + 2t + 4t 2 , onde x é medido em metros e
 t em segundos. Conclui-se que a intensidade da for-
 ça resultante do corpo em newtons vale:
 a) 16 d) 8
@@ -139,10 +139,10 @@ b) 64 e) 32
     <p>
     97. (UFPE) Um corpo de 3,0 kg está se movendo so-
 bre uma superfície horizontal sem atrito com veloci-
-dade v 0 . Em um determinado instante (t  0) uma
+dade v 0 . Em um determinado instante (t = 0) uma
 força de 9,0 N é aplicada no sentido contrário ao
 movimento. Sabendo-se que o corpo atinge o re-
-pouso no instante t  9,0 s, qual a velocidade inicial
+pouso no instante t = 9,0 s, qual a velocidade inicial
 v 0 , em m/s, do corpo?
     </p>
 
@@ -208,17 +208,17 @@ dades de 10 3 N? (Despreze o atrito com os trilhos.)
     <p>
     102. (MACK-SP) O conjunto abaixo, constituído de
 fio e polia ideais, é abandonado do repouso no ins-
-tante t  0 e a velocidade do corpo A varia em fun-
+tante t = 0 e a velocidade do corpo A varia em fun-
 ção do tempo segundo o
 B
 diagrama dado. Despre-
 zando o atrito e admitin-
-do g  10 m/s 2 , a relação
+do g = 10 m/s 2 , a relação
 A
 entre as massas de A (m A )
 e de B (m B ) é:
-a) m B  1,5 m A d) m B  0,5 m B
-b) m A  1,5 m B e) m A  m B
+a) m B = 1,5 m A d) m B = 0,5 m B
+b) m A = 1,5 m B e) m A = m B
     </p>
 
 
@@ -229,7 +229,7 @@ ticalmente uma caixa de massa igual a meia tonela-
 da, com uma aceleração inicial de 0,5 m/s 2 , que se mantém constante
 durante um curto in-
 tervalo de tempo. Use
-g  10 m/s 2 e calcule,
+g = 10 m/s 2 e calcule,
 neste curto intervalo
 de tempo:
 a) a força que a empi-
@@ -242,8 +242,8 @@ b) a força que o chão exerce sobre a empilhadeira.
 
 
     <p>
-    104.  No sistema da figura, m A  4,5 kg, m B  12 kg
-e g  10 m/s 2 . Os fios e
+    104.  No sistema da figura, m A = 4,5 kg, m B = 12 kg
+e g = 10 m/s 2 . Os fios e
 as polias são ideais.
 540 N
 
@@ -271,13 +271,13 @@ aceleração do conjunto é 0,5 m/s 2 .
 
 
     <p>
-    106.  (Vunesp-SP) Uma carga de 10  10 3 kg é abai-
+    106.  (Vunesp-SP) Uma carga de 10 x 10 3 kg é abai-
 xada para o porão de um navio atracado. A veloci-
 dade de descida da carga em função do tempo está
 representada no gráfico da figura.
 a) Esboce um gráfico da aceleração a em função do
 tempo t para esse movimento.
-b) Considerando g  10 m/s 2 , determine os módulos
+b) Considerando g = 10 m/s 2 , determine os módulos
 das forças de tração T 1 , T 2 e T 3, no cabo que susten-
 ta a carga, entre 0 e 6 segundos, entre
 6 e 12 segundos e entre 12 e 14 segundos, respec-
@@ -292,7 +292,7 @@ indica que o peso de Chiquinho é de 600 newtons.
 A seguir, outra pesagem é feita na mesma balança,
 no interior de um elevador, que sobe com acelera-
 ção de sentido contrário ao da aceleração da gravi-
-dade e módulo a  g/10, em que g  10 m/s 2 .
+dade e módulo a = g/10, em que g = 10 m/s 2 .
 Nessa nova situação, o ponteiro da balança aponta
 para o valor que está indicado corretamente na se-
 guinte figura:
@@ -305,7 +305,7 @@ a, b, c, d
 de 30° com a horizontal. Determine a força cons-
 tante que, aplicada a um bloco de 50 kg, parale-
 lamente ao plano, faz com que ele deslize
-(g  10 m/s 2 ):
+(g = 10 m/s 2 ):
 I – para cima, com aceleração de 1,2 m/s 2 ;
 II – para baixo, com a mesma aceleração de 1,2 m/s 2 .
 Despreze o atrito do bloco com o plano.
@@ -371,8 +371,8 @@ o aparelho, empurra a parte móvel de massa igual a
 cidade constante, como é mostrado na figura.
 Considere o coeficiente de atrito dinâmico entre o
 plano inclinado e a parte móvel 0,10 e a aceleração
-gravitacional 10 m/s 2 . (Usar sen 60°  0,86 e
-cos 60°  0,50)
+gravitacional 10 m/s 2 . (Usar sen 60° = 0,86 e
+cos 60° = 0,50)
 a) Faça o diagrama das forças que estão atuando
 sobre a parte móvel do aparelho, identificando-as.
 b) Determine a intensidade da força que a pessoa
@@ -383,10 +383,10 @@ está aplicando sobre a parte móvel do aparelho.
 
     <p>
     113. (UENF-RJ) A figura abaixo mostra um corpo de
-I de massa m I  2 kg apoiado em um plano inclina-
+I de massa m I = 2 kg apoiado em um plano inclina-
 do e amarrado a uma corda, que passa por uma
 roldana e sustenta um outro corpo II de massa
-m II  3 kg.
+m II = 3 kg.
 I
 II
 30°
@@ -396,7 +396,7 @@ natureza.
 a) Esboce o diagrama de forças para cada um dos dois
 corpos.
 b) Se o corpo II move-se para baixo com aceleração
-a  4 m/s 2 , determine a tração T na corda.
+a = 4 m/s 2 , determine a tração T na corda.
     </p>
 
 
@@ -484,7 +484,7 @@ tempo.
 2,0
 3,0 3,5 t (s)
 O coeficiente de atrito estático entre a caixa e o piso
-da carroceria vale 0,30. Considere g  10 m/s 2 .
+da carroceria vale 0,30. Considere g = 10 m/s 2 .
 Verifique se, durante a freada, a caixa permanece
 em repouso em relação ao caminhão ou desliza so-
 bre o piso da carroceria. Justifique sua resposta.
@@ -493,11 +493,11 @@ bre o piso da carroceria. Justifique sua resposta.
 
     <p>
     118. (PUCC-SP) Dois corpos A e B, de massas
-M A  3,0 kg e M B  2,0 kg, estão ligados por uma
+M A = 3,0 kg e M B = 2,0 kg, estão ligados por uma
 corda de peso desprezível que passa sem atrito pela
 polia C, como mostra a figura abaixo.
-Entre A e o apoio existe atrito de coeficiente   0,5,
-a aceleração da gravidade vale g  10 m/s 2 e o sis-
+Entre A e o apoio existe atrito de coeficiente  = 0,5,
+a aceleração da gravidade vale g = 10 m/s 2 e o sis-
 tema é mantido inicialmente em repouso. Liberado
 o sistema após 2,0 s de movimento a distância per-
 corrida por A, em metros, é:
@@ -519,8 +519,8 @@ Quando o conjunto é liberado, B desce e A se deslo-
 ca com atrito constante sobre o carrinho, aceleran-
 do-o. Sabendo que a força de atrito entre A e o car-
 rinho, durante o deslocamento, equivale a 0,2 do
-peso de A (ou seja, f at  0,2 mg) e fazendo
-g  10 m/s 2 , determine:
+peso de A (ou seja, f at = 0,2 mg) e fazendo
+g = 10 m/s 2 , determine:
 a) a aceleração do carrinho
 b) a aceleração do sistema constituído por A e B
 
@@ -553,7 +553,7 @@ d) 2P
     <p>
     121. (UFU-MG) O bloco A tem massa 2 kg e o B 4 kg.
 O coeficiente de atrito estático entre todas as super-
-fícies de contato é 0,25. Se g  10 m/s 2 , qual a for-
+fícies de contato é 0,25. Se g = 10 m/s 2 , qual a for-
 ça F aplicada ao bloco B capaz de colocá-lo na
 iminência de movimento?
 
@@ -568,9 +568,9 @@ e) 25 N
     122. (MACK-SP) Na figura, o carrinho A tem 10 kg e
 o bloco B, 0,5 kg. O conjunto está em movimento e
 o bloco B, simplesmente encostado, não cai devido
-ao atrito com A (  0,4). O menor módulo da ace-
+ao atrito com A ( = 0,4). O menor módulo da ace-
 leração do conjunto, necessário para que isso ocor-
-ra, é: Adote g  10 m/s 2 .
+ra, é: Adote g = 10 m/s 2 .
 
 
 
@@ -591,7 +591,7 @@ e) 5 m/s 2
 200 g cai verticalmente com aceleração de 4,0 m/s2.
 Nesse instante, o módulo da força de resistência,
 exercida pelo ar sobre essa bola, é, em newtons,
-igual a: (Dado: g  10 m/s2.)
+igual a: (Dado: g = 10 m/s2.)
 a) 0,20 c) 1,2 e) 2,0
 b) 0,40 d) 1,5
     </p>
@@ -600,9 +600,9 @@ b) 0,40 d) 1,5
     <p>
     124. MACK-SP) Em uma experiência de Física, abandonam-
 se do alto de uma torre duas esferas A e B,
-de mesmo raio e massas mA  2mB. Durante a que da, além da atração gravitacional da Terra, as esferas
+de mesmo raio e massas mA = 2mB. Durante a que da, além da atração gravitacional da Terra, as esferas
 ficam sujeitas à ação da força de resistência do
-ar, cujo módulo é F  k  v2, onde v é a velocidade
+ar, cujo módulo é F = k x v2, onde v é a velocidade
 de cada uma delas e k, uma constante de igual valor
 para ambas. Após certo tempo, as esferas adquirem
 velocidades constantes, respectivamente iguais a
@@ -676,8 +676,8 @@ velocidade constante. A força que empurra esse bloco
 para baixo, com velocidade constante, no mesmo
 plano inclinado, tem intensidade de:
 Dados:
-cos 37º  0,8
-sen 37º  0,6
+cos 37º = 0,8
+sen 37º = 0,6
 
 a) 40 N c) 20 N e) 10 N
 b) 30 N d) 15 N
@@ -686,12 +686,12 @@ b) 30 N d) 15 N
 
 
     <p>
-    129.  (UECE) Na figura m1  100 kg, m2  76 kg, a
+    129.  (UECE) Na figura m1 = 100 kg, m2 = 76 kg, a
 roldana é ideal e o coeficiente de atrito entre o bloco
-de massa m1 e o plano inclinado é   0,3. O
+de massa m1 e o plano inclinado é  = 0,3. O
 bloco de massa m1 se moverá
-Dados: sen 30o  0,50
-cos 30o  0,86
+Dados: sen 30o = 0,50
+cos 30o = 0,86
 a) para baixo, acelerado
 b) para cima, com velocidade constante
 c) para cima, acelerado
@@ -708,7 +708,7 @@ corpo de massa superior a 13,2 kg. Retirando-se o
 corpo de P2, a maior massa que poderemos suspender
 em P1 para que o bloco continue em repouso,
 supondo os fios e as polias ideais, deverá ser de:
-Dados: g  10 m/s2; sen   0,6; cos   0,8
+Dados: g = 10 m/s2; sen  = 0,6; cos  = 0,8
 a) 1,20 kg c) 2,40 kg e) 13,2 kg
 b) 1,32 kg d) 12,0 kg
 
@@ -721,8 +721,8 @@ de massa desprezível e de constante elástica k em
 três situações distintas de equilíbrio estático.
 De acordo com as situações I e II, pode-se afirmar
 que a situação III ocorre somente se
-a) P2  36 N c) P2  18 N
-b) P2  27 N d) P2  45 N
+a) P2 = 36 N c) P2 = 18 N
+b) P2 = 27 N d) P2 = 45 N
 
     </p>
 
@@ -780,11 +780,11 @@ Justifique sua resposta.
     <p>
     135. (Fuvest-SP) Um ventilador de teto, com eixo vertical,
 é constituído por três pás iguais e rígidas, encaixadas
-em um rotor de raio R  0,10 m, formando
+em um rotor de raio R = 0,10 m, formando
 ângulos de 120° entre si. Cada pá tem massa
-M  0,20 kg e comprimento L  0,50 m. No centro
+M = 0,20 kg e comprimento L = 0,50 m. No centro
 de uma das pás foi fixado um prego P, com massa
-mp  0,020 kg, que desequilibra o ventilador, principalmente
+mp = 0,020 kg, que desequilibra o ventilador, principalmente
 quando ele se movimenta.
 Suponha, então, o ventilador girando com uma velocidade
 de 60 rotações por minuto e determine:
@@ -797,7 +797,7 @@ borda do rotor, para que a resultante das forças horizontais,
 agindo sobre o rotor, seja nula.
 c) A posição do ponto D0, localizando-a no esquema
 da folha de respostas.
-(Se necessário utilize 	  3)
+(Se necessário utilize 	 - 3)
     </p>
 
 
@@ -815,7 +815,7 @@ b) 1 000 m/s d) 9,8 m/s
 
     <p>
     137.  (FGV-SP) Um automóvel de 1 720 kg entra em
-uma curva de raio r  200 m, a 108 km/h. Sabendo
+uma curva de raio r = 200 m, a 108 km/h. Sabendo
 que o coeficiente de atrito entre os pneus do automóvel
 e a rodovia é igual a 0,3, considere as afirmações:
 I – O automóvel está a uma velocidade segura para
@@ -843,9 +843,9 @@ raio 1,0 m em um plano horizontal, sem atrito, à
 razão de 30 voltas por segundo. Estando a mola
 deformada de 2,0 cm, pode-se afirmar que sua constante
 elástica vale:
-a) 	2 N/m d) 	2  103 N/m
-b) 	  10 N/m e) 1,8	2  105 N/m
-c) p	2  102 N/m
+a) 	2 N/m d) 	2 x 103 N/m
+b) 	 x 10 N/m e) 1,8	2 x 105 N/m
+c) p	2 x 102 N/m
 
     </p>
 
@@ -903,11 +903,11 @@ mais baixo de sua trajetória.
 A respeito da tensão no fio e do peso da esfera respectivamente,
 no caso da Figura 01 (T1 e P1) e no
 caso da Figura 02 (T2 e P2), podemos dizer que:
-a) T1  T2 e P1  P2 d) T1 
- T2 e P1  P2
-b) T1  T2 e P1  P2 e) T1 
- T2 e P1  P2
-c) T1  T2 e P1 
+a) T1 = T2 e P1 = P2 d) T1 
+ T2 e P1 > P2
+b) T1 > T2 e P1 = P2 e) T1 
+ T2 e P1 = P2
+c) T1 = T2 e P1 
  P2
 
     </p>
@@ -915,7 +915,7 @@ c) T1  T2 e P1
 
     <p>
     142. (UFAL) O período de um pêndulo simples é dado
-por T  2 	
+por T = 2 	
 L
 g
 , sendo L o comprimento do fio e
@@ -960,7 +960,7 @@ e) n.d.a.
     <p>
     145. (UFPR) Como resultado de uma série de experiências,
 concluiu-se que o período T das pequenas
-oscilações de um pêndulo simples de comprimento L é dado por T  k
+oscilações de um pêndulo simples de comprimento L é dado por T = k
 L
 g
 , onde g é a aceleração da
@@ -1009,9 +1009,9 @@ da corda. Sendo a velocidade do caixote 0,50 m/s e
 a tração aplicada pelo grupo de pessoas na corda
 igual a 1 200 N, o trabalho realizado por essa tração,
 em 10 s, é, no mínimo, igual a:
-a) 1,2  102 J d) 6,0  103 J
-b) 6,0  102 J e) 6,0  104 J
-c) 1,2  103 J
+a) 1,2 x 102 J d) 6,0 x 103 J
+b) 6,0 x 102 J e) 6,0 x 104 J
+c) 1,2 x 103 J
     </p>
 
 
@@ -1084,7 +1084,7 @@ b) 9 d) 60
     152. (Unifor-CE) Um menino de massa 20 kg desce
 por um escorregador de 3,0 m de altura em relação
 à areia de um tanque, na base do escorregador.
-Adotando g  10 m/s2, o trabalho realizado pela
+Adotando g = 10 m/s2, o trabalho realizado pela
 força do menino vale, em joules:
 a) 600 c) 300 e) 60
 b) 400 d) 200
@@ -1098,13 +1098,13 @@ plano inclinado sem atrito, de comprimento 10 m,
 como mostra a figura abaixo.
 
 Sabendo que a aceleração da gravidade é
-g  10 m/s2 e que o bloco sobe com velocidade constante,
+g = 10 m/s2 e que o bloco sobe com velocidade constante,
 a intensidade da força exercida pelo operário,
 em newtons, e o trabalho que ele realiza nessa
 operação, em joules, valem, respectivamente:
-a) 5,0  102 e 5,0  103 d) 3,0  102 e 4,0  103
-b) 5,0  102 e 4,0  103 e) 3,0  102 e 3,0  103
-c) 4,0  102 e 4,0  103
+a) 5,0 x 102 e 5,0 x 103 d) 3,0 x 102 e 4,0 x 103
+b) 5,0 x 102 e 4,0 x 103 e) 3,0 x 102 e 3,0 x 103
+c) 4,0 x 102 e 4,0 x 103
 
     </p>
 
@@ -1117,7 +1117,7 @@ dependura-se um balde vazio, cuja massa é
 que o comprimento da mola atinja 40 cm. O gráfico
 abaixo ilustra a força que a mola exerce sobre o balde
 em função do seu comprimento. Adote
-g  10 m/s2
+g = 10 m/s2
 
 Determine:
 a) a massa de água colocada no balde;
@@ -1213,11 +1213,11 @@ c) 45 000 W
 uma caixa situada a 4 m de altura em 10 min. Qual
 a potência dissipada pela bomba e o trabalho que
 ela realizou, respectivamente?
-a) 4,0  103 W e 2,4  103 J
+a) 4,0 x 103 W e 2,4 x 103 J
 b) 2,4 kJ e 4,0 kW
 c) 0,4 kJ e 240 W
 d) 0,4 kW e 240 kJ
-e) 4,0  102 W e 2,4  103 J
+e) 4,0 x 102 W e 2,4 x 103 J
     </p>
 
 
@@ -1283,7 +1283,7 @@ b) a potência correspondente ao item anterior empregada
 pelo motor que aciona o mecanismo efetuando
 o transporte em 30 s;
 c) o rendimento do motor, sabendo-se que sua potência
-total é 400 watts (sen 30º  0,5; g  10 m/s2).
+total é 400 watts (sen 30º = 0,5; g = 10 m/s2).
     </p>
 
 
@@ -1341,9 +1341,9 @@ folha em 10 minutos de insolação?
 
     <p>
     168. (Fuvest-SP) Um ciclista em estrada plana mantém
-velocidade constante V0  5,0 m/s (18 km/h).
-Ciclista e bicicleta têm massa total M  90 kg. Em
-determinado momento, t  t0, o ciclista pára de pedalar
+velocidade constante V0 = 5,0 m/s (18 km/h).
+Ciclista e bicicleta têm massa total M = 90 kg. Em
+determinado momento, t = t0, o ciclista pára de pedalar
 e a velocidade V da bicicleta passa a diminuir
 com o tempo, conforme o gráfico abaixo
 Assim, determine:
@@ -1368,8 +1368,8 @@ seja de 22,5%.
 cerca de 103 m3 de água por segundo, numa
 queda de 100 m. Se cada turbina assegura uma
 potência de 700 000 kW, qual é a perda percentual
-de energia nesse processo? Dados: g  10 m/s2 e
-dágua  103 kg/m3
+de energia nesse processo? Dados: g = 10 m/s2 e
+dágua = 103 kg/m3
     </p>
 
 
@@ -1389,7 +1389,7 @@ e) metade da do carrinho
     <p>
     171. (MACK-SP) No conjunto abaixo, os fios e as polias
 são ideais e o coeficiente de atrito cinético entre
-o bloco B e a mesa é   0,2. Num dado instante,
+o bloco B e a mesa é  = 0,2. Num dado instante,
 esse corpo passa pelo ponto X com velocidade
 0,50 m/s. No instante em que ele passar pelo ponto
 Y, a energia cinética do corpo A será:
@@ -1407,14 +1407,14 @@ o atrito entre o caixote e a rampa. O caixote,
 de massa m, desloca-se com velocidade v constante,
 durante um certo intervalo de tempo t. Considere
 as seguintes afirmações:
-III – O trabalho realizado pela força F é igual a F  v  t.
+III – O trabalho realizado pela força F é igual a F x v x t.
 III – O trabalho realizado pela força F é igual a
-m  g  v 
+m x g x v x
 t
 2
 .
 III – A energia potencial gravitacional varia de
-m  g  v 
+m x g x v x
 t
 2
 .
@@ -1430,7 +1430,7 @@ b) I e II d) II e III
 de frente, passe de 10 m/s ao repouso em 0,50 m.
 Qual é a ordem de grandeza da força média que o
 cinto de segurança, se fosse usado, exerceria sobre
-o motorista (m  100 kg) durante a batida.
+o motorista (m = 100 kg) durante a batida.
 a) 100 N d) 106 N
 b) 102 N e) 108 N
 c) 104 N
@@ -1446,7 +1446,7 @@ de 50 N, cuja orientação é, a cada instante, perpendicular
 a partícula percorre uma trajetória com comprimento
 de 3 m. Depois, atua sobre a partícula uma
 força resultante em sentido contrário à sua velocidade
-linear, realizando um trabalho de 100 J. Qual
+linear, realizando um trabalho de -100 J. Qual
 é a energia cinética final da partícula?
 a) 150 2J c) 300 J e) 500 J
 b) 250 J d) 350 J
@@ -1471,9 +1471,9 @@ para cima, de um ponto A, com velocidade de módulo
 V1. Após um certo intervalo de tempo a pedra retorna
 ao ponto A com velocidade de módulo V2.
 A respeito dos valores de V1 e V2 podemos afirmar:
-I – Necessariamente V1  V2.
-II – Desprezando o efeito do ar: V1  V2.
-III – Levando em conta o efeito do ar: V1  V2.
+I – Necessariamente V1 = V2.
+II – Desprezando o efeito do ar: V1 = V2.
+III – Levando em conta o efeito do ar: V1 > V2.
 IV – Levando em conta o efeito do ar: V1 
  V2.
 Responda mediante o código:
@@ -1505,7 +1505,7 @@ d) ambas estão incorretas
     <p>
     178. (Fafi-BH) Um atleta atira uma bola de 0,5 kg para
 cima, com velocidade inicial de 10 m/s. Admita que
-a energia potencial inicial seja nula. (Use g  10 m/s2.)
+a energia potencial inicial seja nula. (Use g = 10 m/s2.)
 Com relação a essa situação, é correto afirmar que
 a energia mecânica total quando a bola estiver no
 topo da trajetória, é:
@@ -1515,10 +1515,10 @@ b) 25 J d) nula
 
 
     <p>
-    179. (UFLA-MG) Um bloco de massa M  10 kg desliza
+    179. (UFLA-MG) Um bloco de massa M = 10 kg desliza
 sem atrito entre os trechos A e B indicados na
 figura abaixo. Supondo g (aceleração da gravidade)
- 10 m/s2, h1  10 m e h2  5 m.
+= 10 m/s2, h1 = 10 m e h2 = 5 m.
 Obtenha a velocidade do bloco no ponto B
 
     </p>
@@ -1535,9 +1535,9 @@ A, calcule a altura h, em metros.
 
     <p>
     181. (Unimep-SP) Uma pedra com massa
-m  0,20 kg é lançada verticalmente para cima com
-energia cinética EC  40 J. Considerando-se
-g  10 m/s2 e que em virtude do atrito com o ar,
+m = 0,20 kg é lançada verticalmente para cima com
+energia cinética EC = 40 J. Considerando-se
+g = 10 m/s2 e que em virtude do atrito com o ar,
 durante a subida da pedra, é gerada uma quantidade
 de calor igual a 15 J, a altura máxima atingida
 pela pedra será de:
@@ -1548,7 +1548,7 @@ b) 11,5 m d) 12,5 m
 
     <p>
     182. (Unipa-MG) Uma pequena esfera é solta de uma
-altura HA (onde HA  HC) para realizar o movimento
+altura HA (onde HA > HC) para realizar o movimento
 sobre a superfície regular mostrada na figura abaixo
 Sabendo-se que a velocidade da bolinha no ponto C
 é nula, foram feitas as seguintes afirmações:
@@ -1576,7 +1576,7 @@ na figura, um garoto de 50 kg, brincando com
 um skate (de massa desprezível), impulsiona-se até
 adquirir uma energia cinética de 300 J
 Desprezando-se quaisquer atritos e considerando-se
-g  10 m/s2, pode-se concluir que, com essa energia:
+g = 10 m/s2, pode-se concluir que, com essa energia:
 a) não conseguirá vencer sequer metade do desnível.
 b) conseguirá vencer somente metade do desnível.
 c) conseguirá ultrapassar metade do desnível, mas
@@ -1597,7 +1597,7 @@ com velocidade de módulo igual a 10 m/s, conforme
 mostra a figura.
 No ponto P, a 2 metros do solo, um jogador da defesa
 adversária cabeceia a bola. Considerando
-g  10 m/s2, a energia cinética da bola no ponto P
+g = 10 m/s2, a energia cinética da bola no ponto P
 vale, em joules:
 a) 0 c) 10
 b) 5 d) 15
@@ -1739,7 +1739,7 @@ sobre a superfície mostrada na figura.
 No ponto A, a 60 cm acima do plano horizontal EBC,
 o bloco tem uma velocidade de 2,0 m/s e ao passar
 pelo ponto B sua velocidade é de 3,0 m/s. (Considere
-g  10 m/s2.)
+g = 10 m/s2.)
 
 a) Mostre, usando idéias relacionadas ao conceito
 de energia, que, entre os pontos A e B, existe atrito
@@ -1758,27 +1758,27 @@ de B.
     193. (UFGO) A energia potencial de um carrinho em
 uma montanha-russa varia, como mostra a figura a
 seguir. 
-Sabe-se que em x  2 m, a energia cinética é igual a
+Sabe-se que em x = 2 m, a energia cinética é igual a
 2 J, e que não há atrito, sobre o carrinho, entre as
-posições x  0 e x  7 m. Desprezando a resistência
+posições x = 0 e x = 7 m. Desprezando a resistência
 do ar, determine:
 a) a energia mecânica total do carrinho
 b) a energia cinética e potencial do carrinho na posição
-x  7 m
+x = 7 m
 c) a força de atrito que deve atuar no carrinho, a
-partir do posição x  7 m, para levá-lo ao repouso
+partir do posição x = 7 m, para levá-lo ao repouso
 em 5 m
 
     </p>
 
 
     <p>
-    194. (UFCE) Um bloco de massa m  5 kg encontrase
-numa superfície curva a uma altura h0  10 m do
+    194. (UFCE) Um bloco de massa m = 5 kg encontrase
+numa superfície curva a uma altura h0 = 10 m do
 chão, como mostra a figura. Na região plana da figura,
 de comprimento 10 m existe atrito. O coeficiente
 de atrito dinâmico entre o bloco e o chão é
-m  0,1. O bloco é solto a partir do repouso.
+m = 0,1. O bloco é solto a partir do repouso.
 a) Indique num diagrama as forças sobre o bloco
 quando este encontra-se na parte curva e na parte
 plana da trajetória.
@@ -1801,7 +1801,7 @@ a) 10 cm b) 20 cm c) 30 cm d) 40 cm e) 50 cm
 
     <p>
     196. (PUC-MG) Na figura desta questão a mola tem
-constante elástica k  1,0  103 N/m e está comprimida
+constante elástica k = 1,0 x 103 N/m e está comprimida
 de 0,20 m. A única
 força horizontal que atua na
 esfera após ela ter abandonado
@@ -1827,7 +1827,7 @@ a)3 b)10 c)30 d)50 e)100
 
 
     <p>
-    198. (UECE) Um corpo de massa m  250 g está em
+    198. (UECE) Um corpo de massa m = 250 g está em
 contato com uma mola, de massa desprezível, comprimida
 de uma distância de 25 cm do seu tamanho
 original. A mola é então solta e empurra o corpo em
@@ -1883,13 +1883,13 @@ a)1 b)3 c)5 d)7 e)9
 
 
     <p>
-    201. (MACK-SP) Um automóvel de massa 1,0  10 3 kg
+    201. (MACK-SP) Um automóvel de massa 1,0 x 10 3 kg
 desloca-se com veloci-
 x (m)
 dade constante numa
 5
 estrada retilínea, quan-
-do, no instante t  0,
+do, no instante t = 0,
 inicia-se o estudo de seu
 2
 movimento. Após os re-
@@ -1898,17 +1898,17 @@ movimento. Após os re-
 t (s)
 gistros de algumas po-
 sições, construiu-se o
-4
+-4
 gráfico abaixo, da posi-
 ção (x) em função do
 tempo (t). O módulo do
 vetor quantidade de
 movimento no instante
-t  5 s é:
+t = 5 s é:
 
-a) 1,0  10 3 kg  m/s d) 3,0  10 3 kg  m/s
-b) 1,8  10 3 kg  m/s e) 5,0  10 3 kg  m/s
-c) 2,0  10 kg  m/s
+a) 1,0 x 10 3 kg x m/s d) 3,0 x 10 3 kg x m/s
+b) 1,8 x 10 3 kg x m/s e) 5,0 x 10 3 kg x m/s
+c) 2,0 x 10 kg x m/s
 
     </p>
 
@@ -1947,14 +1947,14 @@ locamento e sabendo que a aceleração gravitacional
 →
 local é g , o módulo da quantidade de movimento
 desse corpo, ao passar pelo ponto B do trilho, é:
-a) m 
+a) m x
 R
-R  g
-b) m  R g
-c) m  g R
-d) 5 m  R  g
+R x g
+b) m x R g
+c) m x g R
+d) 5 m x R x g
 2
-e) 2 m  R  g
+e) 2 m x R x g
 5
 
     </p>
@@ -1977,9 +1977,9 @@ c) 0,2
 sultante que atua num corpo em função do tempo.
 A variação da quantidade de movimento do corpo,
 nos primeiros 10 segundos, em kgm/s, é:
-a) 1  10 2 c) 7  10 2
-b) 5  10 2 d) 8  10 2
-e) 1  10 3
+a) 1 x 10 2 c) 7 x 10 2
+b) 5 x 10 2 d) 8 x 10 2
+e) 1 x 10 3
     </p>
 
 
@@ -1994,7 +1994,7 @@ valo de tempo, determine:
 a) a perda de energia mecânica e o módulo da vari-
 ação da quantidade de movimento da esfera;
 b) a força média exercida pelo solo sobre a esfera.
-Adote g  10 m/s 2
+Adote g = 10 m/s 2
     </p>
 
 
@@ -2004,7 +2004,7 @@ um automóvel parte do repouso e descreve movi-
 mento retilíneo de aceleração constante. Observa-
 se que, 5 s após a partida, a potência da força resul-
 tante é 22,5 kW e a quantidade de movimento do
-automóvel é 7,5 kN  s. A massa desse automóvel é
+automóvel é 7,5 kN x s. A massa desse automóvel é
 a) 450 kg c) 550 kg
 e) 700 kg
 b) 500 kg d) 600 kg
@@ -2109,8 +2109,8 @@ considerando o choque inelástico, determine a for-
 
     <p>
     215. (UECE) Oito esferas estão suspensas, sendo
-quatro de massa M  150 g e quatro de massa
-m  50 g, por fios flexíveis, inextensíveis e de mas-
+quatro de massa M = 150 g e quatro de massa
+m = 50 g, por fios flexíveis, inextensíveis e de mas-
 sas desprezíveis, conforme a figura. Se uma esfera
 de massa M for deslocada de sua posição inicial e
 solta, ela colidirá frontalmente com o grupo de es-
@@ -2134,9 +2134,9 @@ retilíneos. Em torno do instante 3 segundos, os car-
 rinhos colidem.
 Se as massas dos carrinhos 1 e 2 são, respectiva-
 mente, m 1 e m 2 , então:
-a) m 1  3m 2 d) 3m 1  7m 2
-b) 3m 1  m 2 e) 5m 1  3m 2
-c) 3m 1  5m 2
+a) m 1 = 3m 2 d) 3m 1 = 7m 2
+b) 3m 1 = m 2 e) 5m 1 = 3m 2
+c) 3m 1 = 5m 2
 
     </p>
 
@@ -2152,7 +2152,7 @@ mente a esfera encontra-se em repouso e a mola
 nos seu comprimento natural. A esfera é então atin-
 gida por um pêndulo de mesma massa que cai de
 uma altura igual a 0,5 m. Suponha a colisão elástica
-e g  10 m/s 2 .
+e g = 10 m/s 2 .
 Calcule:
 a) as velocidades da esfera e do pêndulo imediata-
 mente após a colisão  
@@ -2194,19 +2194,19 @@ cas no plano da figura.
 Após todas as colisões, é possível afirmar que os
 módulos das velocidades dos dois blocos serão apro-
 ximadamente:
-a) V A  V 0 e V B  0
-b) V A 
+a) V A = V 0 e V B = 0
+b) V A =
 V 0
-e V B  2V 0
+e V B = 2V 0
 2
-c) V A  0 e V B  2V 0
-d) V A 
+c) V A = 0 e V B = 2V 0
+d) V A =
 V 0
 2
 V 0
-e V B 
+e V B =
 2
-e) V A  0 e V B  V 0
+e) V A = 0 e V B = V 0
     </p>
 
 
@@ -2267,7 +2267,7 @@ está sendo construída num esforço conjunto de di-
 versos países, deverá orbitar a uma distância do cen-
 tro da Terra igual a 1,05 do raio médio da Terra. A
 F
-razão R  e , entre a força F e com que a Terra
+razão R = e , entre a força F e com que a Terra
 F
 atrai um corpo nessa Estação e a força F com que a
 Terra atrai o mesmo corpo na superfície da Terra, é
@@ -2348,13 +2348,13 @@ pólo Norte, permanecendo, ainda, ao nível do mar.
 Sejam m N e P N , os valores de sua massa e de seu
 peso nessa posição. Considerando essas informa-
 ções, pode-se afirmar que:
-a) m N  m E e P N  P E
-b) m N  m E e P N 
+a) m N = m E e P N = P E
+b) m N = m E e P N 
  P E
- c) m N  m E e P N  P E
- d) m N  m E e P N  P E
+ c) m N > m E e P N > P E
+ d) m N = m E e P N > P E
  e) m N 
- m E e P N  P E
+ m E e P N = P E
     </p>
 
 
@@ -2382,7 +2382,7 @@ caindo sobre a Terra.
     <p>
     231. (Unicamp-SP) Um míssil é lançado horizontal-
 mente em órbita circular rasante à superfície da Ter-
-ra. Adote o raio da Terra R  6 400 km e, para sim-
+ra. Adote o raio da Terra R = 6 400 km e, para sim-
 plificar, tome 3 como valor aproximado de 	.
 a) Qual é a velocidade de lançamento?
 b) Qual é o período da órbita?
@@ -2443,7 +2443,7 @@ realizar em Marte no ano 2100. Ficou estabelecido
 que o comprimento do campo deve corresponder à
 distância do chute de máximo alcance conseguido
 por um bom jogador. Na Terra esta distância vale
-L T  100 m. Suponha que o jogo seja realizado numa
+L T = 100 m. Suponha que o jogo seja realizado numa
 atmosfera semelhante à da Terra e que, como na
 Terra, possamos desprezar os efeitos do ar, e ainda,
 que a máxima velocidade que um bom jogador con-
@@ -2451,7 +2451,7 @@ segue imprimir à bola seja igual à na Terra. Suponha
 que
 M M
 R
- 0,1 e M  0,5, onde M M e R M são a
+= 0,1 e M = 0,5, onde M M e R M são a
 M T
 R T
 massa e o raio de Marte e M T e R T são a massa e raio
@@ -2466,7 +2466,7 @@ comprimento do campo em Marte
 c) Determine o valor aproximado do tempo t M , em
 segundos, gasto pela bola, em um chute de máxi-
 mo alcance, para atravessar o campo em Marte (ado-
-te g T  10 m/s 2 )
+te g T = 10 m/s 2 )
 
     </p>
 
