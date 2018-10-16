@@ -68,6 +68,15 @@
       
       </ul>
         
+      <li>
+          <a href="geometria_plana.php">
+            <i class="fa fa-th"></i> <span>Geometria Plana</span>
+            <span class="pull-right-container">
+              <small class="label pull-right bg-green">novo</small>
+            </span>
+          </a>
+        </li>
+
         
         <li>
           <a href="gravitacao.php">
