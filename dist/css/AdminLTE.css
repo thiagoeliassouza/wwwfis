@@ -1233,9 +1233,12 @@ a:focus {
  * ---------------
  */
 .form-control {
+  background: #666666;
+  color: white;
   border-radius: 0;
-  box-shadow: none;
-  border-color: #d2d6de;
+  box-shadow: rgba(255, 255, 255, 0.15);
+  border-color: black;
+  font-size: 20px;
 }
 .form-control:focus {
   border-color: #3c8dbc;
@@ -1254,6 +1257,7 @@ a:focus {
 }
 .form-group.has-success label {
   color: #00a65a;
+  width: 200px;
 }
 .form-group.has-success .form-control,
 .form-group.has-success .input-group-addon {
@@ -1306,12 +1310,12 @@ a:focus {
 .input-lg + .form-control-feedback.fa,
 .input-group-lg + .form-control-feedback.fa,
 .form-group-lg .form-control + .form-control-feedback.fa {
-  line-height: 46px;
+  line-height: 40px;
 }
 .input-sm + .form-control-feedback.fa,
 .input-group-sm + .form-control-feedback.fa,
 .form-group-sm .form-control + .form-control-feedback.fa {
-  line-height: 30px;
+  line-height: 100px;
 }
 /*
  * Component: Progress Bar
@@ -1777,6 +1781,7 @@ a:focus {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
   padding: 10px;
+  width: 200px;
 }
 .no-header .box-body {
   border-top-right-radius: 3px;

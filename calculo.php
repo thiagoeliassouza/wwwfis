@@ -41,17 +41,28 @@
     <section class="content">
 
          
-      <?php 
-      if   (isset($_POST["equacao"])) 
-      {
+			<?php 
+			$varA = isset( $_POST["varA"] ) ? $_POST["varA"] : null;
+			$varB = isset( $_POST["varB"] ) ? $_POST["varB"] : null;
+			$varC = isset( $_POST["varC"] ) ? $_POST["varC"] : null;
 
-        $equacao = $_POST["equacao"];
-       
+			if (  ($varA != null ) && ($varB != null ) && ($varC != null ) ) 
+			{
 
-      } 
+				$varA = intval($varA);
+				$varB = intval($varB);
+				$varC = intval($varC);
+
+				$delta = $varB ^ 2 - 4 * $varA * $varC ;
+
+				$delta =  intval($delta);
+				$raiz1 = ( + $varB + sqrt($delta) ) / 2 * $varA;
+				$raiz2 = ( - $varB - sqrt($delta) ) / 2 * $varA;
+				echo "O Delta é :" . $delta . "<br>";
+				echo "Raiz1 :" . $raiz1 . "<br>";
+				echo "Raiz2 :" . $raiz2 . "<br>";
+			}
       ?>
-
-   
 
     <!-- Main content -->
     <section class="content">
@@ -68,7 +79,21 @@
               <div class="box-body">
                 <div class="form-group">
                   <label for="InputEmail1">Equação da Reta:</label>
-                  <input type="text" name="equacao"  class="form-control" id="equacao" >
+								 
+								 <table>
+										<tr>
+											<td>A</td>
+											<td> <input type="text" name="varA"  size="4" class="form-control" id="varA" ></td>
+										</tr>
+										<tr>
+											<td>B</td>
+											<td><input type="text" name="varB"  size="4" class="form-control" id="varB" ></td>
+										</tr>
+										<tr>
+											<td>C</td>
+											<td><input type="text" name="varC"  size="4" class="form-control" id="varC" ></td>
+										</tr>
+								 </table>
                 </div>
                
 
