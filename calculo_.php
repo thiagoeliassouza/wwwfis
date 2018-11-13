@@ -41,67 +41,37 @@
     <section class="content">
 
          
-		<?php 
-				$varA = isset( $_POST["varA"] ) ? $_POST["varA"] : null;
-				$varB = isset( $_POST["varB"] ) ? $_POST["varB"] : null;
-				$varC = isset( $_POST["varC"] ) ? $_POST["varC"] : null;
-	
-				if (  ($varA != null ) && ($varB != null ) && ($varC != null ) ) 
-		
-				{
-	
-					$varA = intval($varA);
-					$varB = intval($varB);
-					$varC = intval($varC);
+			<?php 
+			$varA = isset( $_POST["varA"] ) ? $_POST["varA"] : null;
+			$varB = isset( $_POST["varB"] ) ? $_POST["varB"] : null;
+			$varC = isset( $_POST["varC"] ) ? $_POST["varC"] : null;
 
-
-					if (  ($varA != null )  ) 
-					{
-
-						$y3n = calc_polinomio( -3 , $varA, $varB, $varC);
-						$y2n = calc_polinomio( -2 , $varA, $varB, $varC);
-						$y1n = calc_polinomio( -1 , $varA, $varB, $varC);
-						$y0  = calc_polinomio( 0 , $varA, $varB, $varC);
-						$y1  = calc_polinomio( 1 , $varA, $varB, $varC);
-						$y2  = calc_polinomio( 2 , $varA, $varB, $varC);
-						$y3  = calc_polinomio( 3 , $varA, $varB, $varC);
-						
-						
-						//$eq = str_replace("x", "T", "abcdfgt");
-						//var_dump(  $replace) 
-
-						$delta = $varB ^ 2 - 4 * $varA * $varC ;
-
-						$delta =  intval($delta);
-						$raiz1 = ( + $varB + sqrt($delta) ) / 2 * $varA;
-						$raiz2 = ( - $varB - sqrt($delta) ) / 2 * $varA;
-						echo "O Delta é :" . $delta . "<br>";
-
-
-						if ( $delta > 0) {
-							echo "Raiz1 :" . $raiz1 . "<br>";
-							echo "Raiz2 :" . $raiz2 . "<br>";
-						} else if ($delta == 0 ) {
-							echo "A equação possui 1 raiz.<br>";
-						} else {
-							echo "A equação não possui raizes reais.<br>";
-						}
-
-					
-				}
-			}
-		
-
-
-			function calc_polinomio( $valor, $varA, $varB, $varC ) 
+			if (  ($varA != null ) && ($varB != null ) && ($varC != null ) ) 
 			{
-					$retorno = intval($valor ^ 2 * $varA + $varB * $valor + 
-					$varC);
-					
-					return $retorno;
-			};
-			
 
+				$varA = intval($varA);
+				$varB = intval($varB);
+				$varC = intval($varC);
+
+				$delta = $varB ^ 2 - 4 * $varA * $varC ;
+
+				$delta =  intval($delta);
+				$raiz1 = ( + $varB + sqrt($delta) ) / 2 * $varA;
+				$raiz2 = ( - $varB - sqrt($delta) ) / 2 * $varA;
+				echo "O Delta é :" . $delta . "<br>";
+
+
+				if ( $delta > 0) {
+					echo "Raiz1 :" . $raiz1 . "<br>";
+					echo "Raiz2 :" . $raiz2 . "<br>";
+				} else if ($delta == 0 ) {
+					echo "A equação possui 1 raiz.<br>";
+				} else {
+					echo "A equação não possui raizes reais.<br>";
+				}
+
+				
+			}
       ?>
 
     <!-- Main content -->
@@ -114,30 +84,25 @@
            
             <!-- /.box-header -->
             <!-- form start -->
-            <form method="POST" action="calculo2.php">
+            <form method="POST" action="calculo.php">
                                
               <div class="box-body">
                 <div class="form-group">
                   <label for="InputEmail1">Equação da Reta:</label>
 								 
-								 <table >
+								 <table>
 										<tr>
-											
-										<td> <input type="text" name="varA"  size="4" class="form-control" id="varA" ></td>
-											<td class="form-eq">Xˆ2 + </td>
+											<td>A</td>
+											<td> <input type="text" name="varA"  size="4" class="form-control" id="varA" ></td>
 										</tr>
-										
 										<tr>
-										<td> <input type="text" name="varB"  size="4" class="form-control" id="varB" ></td>
-											<td class="form-eq"> X + </td>
+											<td>B</td>
+											<td><input type="text" name="varB"  size="4" class="form-control" id="varB" ></td>
 										</tr>
-
 										<tr>
-										<td> <input type="text" name="varC"  size="4" class="form-control" id="varC" ></td>
-											<td class="form-eq">C</td>
+											<td>C</td>
+											<td><input type="text" name="varC"  size="4" class="form-control" id="varC" ></td>
 										</tr>
-
- 
 								 </table>
                 </div>
                
@@ -179,13 +144,13 @@
 					backgroundColor: window.chartColors.red,
 					borderColor: window.chartColors.red,
 					data: [
-						<?php echo $y3n?>,
-						<?php echo $y2n?>,
-						<?php echo $y1n?>,
-						<?php echo $y0?>,
-						<?php echo $y1?>,
-						<?php echo $y2?>,
-						<?php echo $y3?>
+						1000,
+						20,
+						20,
+						40,
+						50,
+						randomScalingFactor(),
+						randomScalingFactor()
 					],
 					fill: false,
 				}, ]
@@ -290,7 +255,6 @@
 
 	<?php include 'master/footer_master.php';?>
 
-Reduza a distancia entre o que voce fala e o que você faz, para que em um determinado momento a sua fala seja a sua ação.
 
 </body>
 </html> 
