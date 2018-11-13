@@ -109,7 +109,7 @@
           <ul class="treeview-menu">
            
            
-        <li><a href="#"><i class="fa fa-circle-o"></i>Cálculo
+        <li><a href="calculo.php"><i class="fa fa-circle-o"></i>Cálculo
         <span class="pull-right-container">
               <small class="label pull-right bg-yellow">em breve</small>
             </span>
