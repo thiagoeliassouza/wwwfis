@@ -114,7 +114,7 @@
            
             <!-- /.box-header -->
             <!-- form start -->
-            <form method="POST" action="calculo2.php">
+            <form method="POST" action="calculo.php">
                                
               <div class="box-body">
                 <div class="form-group">
