@@ -1,3 +1,19 @@
+MAC:
+****
+/Library/WebServer/Documents
+
+
+
+
+LINUX:
+******
+Iniciar lamp:
+sudo /opt/lampp/lampp start
+
+    
+
+
+
 Iniciar lamp:
 sudo /opt/lampp/lampp start
 
