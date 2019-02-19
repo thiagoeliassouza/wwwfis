@@ -1,4 +1,17 @@
 Iniciar lamp:
 sudo /opt/lampp/lampp start
 
+
+git status
+git add
+git commit
+git push
+
+    
+
+    ***********************************************************
+    http://oesp0537:8880
+    Grant access
+    blue ocean
+    Branches
     

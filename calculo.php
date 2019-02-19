@@ -124,17 +124,13 @@
 										<tr>
 											
 										<td> <input type="text" name="varA"  size="4" class="form-control" id="varA" ></td>
-											<td class="form-eq">Xˆ2 + </td>
-										</tr>
+											<td class="form-eq" > X^2 + </td>
 										
-										<tr>
 										<td> <input type="text" name="varB"  size="4" class="form-control" id="varB" ></td>
 											<td class="form-eq"> X + </td>
-										</tr>
-
-										<tr>
+										
 										<td> <input type="text" name="varC"  size="4" class="form-control" id="varC" ></td>
-											<td class="form-eq">C</td>
+											<td class="form-eq"> C </td>
 										</tr>
 
  
@@ -176,8 +172,8 @@
 				labels: ['-3', '-2', '-1', '0', '1', '2', '3'],
 				datasets: [{
 					label: 'Gráfico da Reta',
-					backgroundColor: window.chartColors.red,
-					borderColor: window.chartColors.red,
+					//backgroundColor: window.chartColors.red,
+					//borderColor: window.chartColors.red,
 					data: [
 						<?php echo $y3n?>,
 						<?php echo $y2n?>,

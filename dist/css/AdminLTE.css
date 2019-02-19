@@ -1239,11 +1239,13 @@ a:focus {
   box-shadow: rgba(255, 255, 255, 0.15);
   border-color: black;
   font-size: 20px;
+  width: 50px;
 }
 
 .form-eq {
   font-size: 24px;
-  padding: 10px;
+  
+  width: 200px; 
 }
 
 
@@ -1251,6 +1253,7 @@ a:focus {
 .form-control:focus {
   border-color: #3c8dbc;
   box-shadow: none;
+
 }
 .form-control::-moz-placeholder,
 .form-control:-ms-input-placeholder,
@@ -1265,7 +1268,7 @@ a:focus {
 }
 .form-group.has-success label {
   color: #00a65a;
-  width: 200px;
+  width: 400px;
 }
 .form-group.has-success .form-control,
 .form-group.has-success .input-group-addon {
@@ -1789,7 +1792,7 @@ a:focus {
   border-bottom-right-radius: 3px;
   border-bottom-left-radius: 3px;
   padding: 10px;
-  width: 200px;
+  width: 400px;
 }
 .no-header .box-body {
   border-top-right-radius: 3px;
