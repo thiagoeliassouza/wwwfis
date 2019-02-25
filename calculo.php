@@ -10,6 +10,16 @@
 <title>Estudar Física - Cálculo on-line</title>
 <meta name="description" content="Fale Conosco, envie sua mensagem para nós!">
 
+<script async  src="http://www.chartjs.org/dist/2.7.3/Chart.bundle.js"></script>
+	<script async src="http://www.chartjs.org/samples/latest/utils.js"></script>
+	<style>
+	canvas{
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+	}
+	</style>
+
 </head>
 
 <body class="hold-transition skin-blue sidebar-mini">
