@@ -26,7 +26,7 @@ git push
     
 
     ***********************************************************
-    http://oesp0537:8880
+    http://537:8880
     Grant access
     blue ocean
     Branches

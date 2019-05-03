@@ -55,7 +55,10 @@
 				$varA = isset( $_POST["varA"] ) ? $_POST["varA"] : null;
 				$varB = isset( $_POST["varB"] ) ? $_POST["varB"] : null;
 				$varC = isset( $_POST["varC"] ) ? $_POST["varC"] : null;
-	
+
+		
+			
+				
 				if (  ($varA != null ) && ($varB != null ) && ($varC != null ) ) 
 		
 				{
@@ -68,24 +71,28 @@
 					if (  ($varA != null )  ) 
 					{
 
-						$y3n = calc_polinomio( -3 , $varA, $varB, $varC);
-						$y2n = calc_polinomio( -2 , $varA, $varB, $varC);
-						$y1n = calc_polinomio( -1 , $varA, $varB, $varC);
-						$y0  = calc_polinomio( 0 , $varA, $varB, $varC);
-						$y1  = calc_polinomio( 1 , $varA, $varB, $varC);
-						$y2  = calc_polinomio( 2 , $varA, $varB, $varC);
-						$y3  = calc_polinomio( 3 , $varA, $varB, $varC);
+						//$y3n = $raiz1;
+						//$y2n = $raiz1;
+						//$y1n = calc_polinomio( -1 , $varA, $varB, $varC);
+						//$y0  = calc_polinomio( 0 , $varA, $varB, $varC);
+						//$y1  = calc_polinomio( 1 , $varA, $varB, $varC);
+						//$y2  = calc_polinomio( 2 , $varA, $varB, $varC);
+						//$y3  = calc_polinomio( 3 , $varA, $varB, $varC);
 						
 						
 						//$eq = str_replace("x", "T", "abcdfgt");
 						//var_dump(  $replace) 
 
-						$delta = $varB ^ 2 - 4 * $varA * $varC ;
+					
 
-						$delta =  intval($delta);
-						$raiz1 = ( + $varB + sqrt($delta) ) / 2 * $varA;
+						$b2 =  intval($varB * $varB);
+						$bhaskara =  intval(-4 * $varA * $varC);
+						$delta = intval($b2 + $bhaskara);
+
+						$raiz1 = ( - $varB + sqrt($delta) ) / 2 * $varA;
 						$raiz2 = ( - $varB - sqrt($delta) ) / 2 * $varA;
 						echo "O Delta é :" . $delta . "<br>";
+				
 
 
 						if ( $delta > 0) {
@@ -179,19 +186,30 @@
 		var config = {
 			type: 'line',
 			data: {
-				labels: ['-3', '-2', '-1', '0', '1', '2', '3'],
+				labels: [
+					
+
+					1,2,3,4,5
+				//		<?php echo $raiz1?>,
+						//<?php echo $raiz1+1?>,
+						//<?php echo $raiz1+2?>,
+			//			<?php echo $raiz2?>,
+						//<?php echo $raiz2+1?>,
+						//<?php echo $raiz2+2?>,
+						
+					],
 				datasets: [{
 					label: 'Gráfico da Reta',
 					//backgroundColor: window.chartColors.red,
 					//borderColor: window.chartColors.red,
 					data: [
-						<?php echo $y3n?>,
-						<?php echo $y2n?>,
-						<?php echo $y1n?>,
-						<?php echo $y0?>,
-						<?php echo $y1?>,
-						<?php echo $y2?>,
-						<?php echo $y3?>
+						<?php echo $raiz1?>,
+						//<?php echo $raiz1+1?>,
+						//<?php echo $raiz1+2?>,
+						<?php echo $raiz2?>,
+						//<?php echo $raiz2+1?>,
+						//<?php echo $raiz2+2?>,
+					
 					],
 					fill: false,
 				}, ]
