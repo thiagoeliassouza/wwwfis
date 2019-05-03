@@ -31,3 +31,29 @@ git push
     blue ocean
     Branches
     
+**************************************************
+Ativar SSH
+# sudo su root
+#passwd root
+Step 3: Config SSHD allow Root login
+#nano /etc/ssh/sshd_config
+PermitRootLogin yes
+PasswordAuthentication yes
+#service sshd restart
+
+
+# vi /etc/apache2/sites-available/default
+
+Insira as linhas abaixo:
+
+<VirtualHost *:80>
+ServerName www.nossoserver.com
+DocumentRoot /var/www/www.nossoserver.com
+</VirtualHost>
+<VirtualHost *:80>
+ServerName guarani.campeaobrasileiro.com.br
+DocumentRoot /var/www/guarani.campeaobrasileiro.com.br
+</VirtualHost>
+
+
+ /etc/init.d/apache2 force-reload
