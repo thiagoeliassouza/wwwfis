@@ -57,3 +57,10 @@ DocumentRoot /var/www/guarani.campeaobrasileiro.com.br
 
 
  /etc/init.d/apache2 force-reload
+ 
+ 
+ instala xamp
+
+
+
+

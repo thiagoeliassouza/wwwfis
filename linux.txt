@@ -1,0 +1,52 @@
+type - verifica se o comando é interno (faz parte do hash) ou externo. Ex: type clear ou type comando
+
+./ = neste diretório
+caminho absoluto=endereco completo
+caminho relativo= depende de onde vc está
+
+14.103.1
+
+
+
+ **************************************************************
+comandos em sequencia: date; ls; ou &&
+history: mostra todos os comandos executados
+history -c : limpa o histórico
+set |grep HISTFILE : filtra valor histfile
+man <comando> : exibe o manual do comando
+se nao achar é pq é um comando do bach. entao digitar: man bash
+outra opcao é usar info <comando> : manual reduzido
+uname -a : exibe informações do kernel e do sistema
+aspas simpes proteje tudo, aspas dupla protege tudo, exceto cifrao, crase, e barra simples"$,`,/"
+cat -n le um arq texto numerado
+tac - le o arquivo de ordem inversa
+tail -n5 -f arquivo -> 5 ultimas linhas
+less arquivo - evolucao do more . dentro dele pode digitar /palavra que ele procura
+cat arquivo.txt | less -> bom para ver log
+
+Para gerar Hash: validar envio de arquivo origem e destino:
+md5sum
+sha1sum -> mais antigos
+sha256sum
+sha512sum -> muito dificil de quebrar
+***********************************************************
+103.3
+
+file arquivo -> analisa o arquivo e diz o que é
+find /pasta -name "texto"
+find ./ -ctime -1 (alterado d-1)
+man find
+
+tar cpvf backup.tar -> agrupar e backupear
+tar tf arquivo -> mostra o que tem
+para compactar: gzip backup.tar / descompactar: gzip -d backup.tar.gz 
+outros compactadores gzip2 (.bz2) e xz (.xz) 
+
+uptime  -> quanto tempo esta ligada, usuarios logados
+free -m     -> visualiza consumo de memoria (se tem swap em uso, é problema)
+firefox &   -> & = background, não preenche a sessão
+jobs -l     -> exibe processos abertos
+kill pid    -> mata o processo
+tmux -> trabalhar com multi janelas de terminal
+
+
