@@ -10,7 +10,7 @@
 <body class="hold-transition skin-blue sidebar-mini">
   <div class="wrapper">
     
-    
+  <?php include 'master/sidebar.php';?>
     
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
