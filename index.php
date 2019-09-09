@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'master/header_master.php';?>
+
 
 <title>Estudar Física</title>
 <meta name="description" content="Estude velicidade média, movimento unidimensiona, movimento retilíneo uniforme, movimento retilíneo uniformemente variado, aceleração, gravidade, leis de newton, aplicações das leis de Newton">
@@ -9,8 +9,7 @@
 
 <body class="hold-transition skin-blue sidebar-mini">
   <div class="wrapper">
-    <?php include 'master/header.php';?>
-    <?php include 'master/sidebar.php';?>
+
     
     
   <!-- Content Wrapper. Contains page content -->
@@ -65,11 +64,6 @@
   <!-- /.content-wrapper -->
 
 
-    <?php include 'master/footer.php';?>
-    <!--  <div class="control-sidebar-bg"></div> -->
-</div>
-<!-- ./wrapper -->
 
-<?php include 'master/footer_master.php';?>
 </body>
 </html>
