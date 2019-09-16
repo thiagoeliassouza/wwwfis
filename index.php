@@ -68,6 +68,5 @@
 </div>
 <!-- ./wrapper -->
 
-<?php include 'master/footer_master.php';?>
 </body>
 </html>
